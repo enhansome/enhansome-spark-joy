@@ -1,0 +1,1296 @@
+{
+  "items": [
+    {
+      "description": "Keep it simple: https://jgthms.com/web-design-in-4-minutes/",
+      "items": [],
+      "title": "Web Design in 4 minutes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Serious CSS Frameworks"
+    },
+    {
+      "description": "lighter, no js. preview some of these with https://sites.yax.com/, https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://latex.vercel.app/",
+          "description": "style your website like a LATEX document - (original version https://github.com/davidrzs/latexcss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-25T21:24:03Z",
+            "owner": "davidrzs",
+            "repo": "latexcss",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/gduverger/screen",
+          "description": "(inactive now)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-07T03:11:12Z",
+            "owner": "gduverger",
+            "repo": "screen",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "No CSS Classes - Pure HTML",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/oxalorg/sakura",
+              "description": "supports extremely easy theming using variables for duotone color scheming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-04-07T01:47:31Z",
+                "owner": "oxalorg",
+                "repo": "sakura",
+                "stars": 4387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/xz/new.css",
+              "description": "(https://newcss.net/) 4.8kb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-10T01:07:50Z",
+                "owner": "xz",
+                "repo": "new.css",
+                "stars": 4041
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/alvaromontoro/almond.css",
+              "description": "has thin fonts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-07-23T13:02:17Z",
+                "owner": "alvaromontoro",
+                "repo": "almond.css",
+                "stars": 1168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/susam/spcss",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2024-01-08T11:37:14Z",
+                "owner": "susam",
+                "repo": "spcss",
+                "stars": 968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://neat.joeldare.com/",
+              "description": "https://github.com/codazoda/neatcss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-02-25T13:34:09Z",
+                "owner": "codazoda",
+                "repo": "neatcss",
+                "stars": 737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/neocities/element",
+              "description": "(inactive now)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-05-29T21:30:59Z",
+                "owner": "neocities",
+                "repo": "element",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/zichy/fieber",
+              "description": "(new, wants feedback)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2025-10-16T08:08:17Z",
+                "owner": "zichy",
+                "repo": "fieber",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Collections of even more:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/dbohdan/classless-css",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-04-03T09:53:57Z",
+                "owner": "dbohdan",
+                "repo": "classless-css",
+                "stars": 2366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/dohliam/dropin-minimal-css",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2024-07-25T21:43:47Z",
+                "owner": "dohliam",
+                "repo": "dropin-minimal-css",
+                "stars": 1826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ubershmekel/cssbed",
+              "description": "(https://www.cssbed.com/)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-04-28T06:03:14Z",
+                "owner": "ubershmekel",
+                "repo": "cssbed",
+                "stars": 176
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Drop-in CSS Frameworks"
+    },
+    {
+      "description": "Instead of using a framework, consider not using one.",
+      "items": [],
+      "title": "No Framework"
+    },
+    {
+      "description": "more control in exchange for more work on your part.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/jensimmons/cssremedy",
+          "description": "css working group's reset if it didnt have to worry about tech debt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-07T22:11:37Z",
+            "owner": "jensimmons",
+            "repo": "cssremedy",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tiaanduplessis/nanoreset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-06T17:32:03Z",
+            "owner": "tiaanduplessis",
+            "repo": "nanoreset",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kripod/css-homogenizer",
+          "description": "a modern take on Eric Meyer's Reset, based upon direct comparison between user agent style sheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-25T20:37:21Z",
+            "owner": "kripod",
+            "repo": "css-homogenizer",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "http://necolas.github.io/normalize.css/",
+          "description": "(yes, technically does more than a reset)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/sindresorhus/modern-normalize",
+              "description": "is a smaller version that just supports latest Chrome, Firefox, and Safari",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-25T12:14:32Z",
+                "owner": "sindresorhus",
+                "repo": "modern-normalize",
+                "stars": 7382
+              }
+            }
+          ]
+        }
+      ],
+      "title": "CSS Resets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/jackdomleo7/Checka11y.css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-20T21:10:57Z",
+            "owner": "jackdomleo7",
+            "repo": "Checka11y.css",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mike-engel/a11y-css-reset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-20T09:01:29Z",
+            "owner": "mike-engel",
+            "repo": "a11y-css-reset",
+            "stars": 266
+          }
+        }
+      ],
+      "title": "CSS A11y Checkers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Layout"
+    },
+    {
+      "description": "Good idea to have an elevation system in place. Material's is pretty good: https://material.io/design/environment/elevation.html\nMore notes on FAB implementation- https://youtu.be/RXopH5t2Kww",
+      "items": [],
+      "title": "Stacking and Elevation"
+    },
+    {
+      "description": "More. Spacing. Please.\nDouble your whitespace",
+      "items": [],
+      "title": "2D Spacing"
+    },
+    {
+      "description": "A nice bleed lets you put emphasis on things selectively.\nYou want a normal width, a popout width, and a \"full bleed\" width. Optional for an intermediate one.\nThis is the best version of bleed implementation https://ryanmulligan.dev/blog/layout-breakouts/ (borrows from https://joshwcomeau.com/css/full-bleed/)\nThis is adapted to be responsive\nThen you can selectively use the , , and classes as needed",
+      "items": [],
+      "title": "Layout Bleed"
+    },
+    {
+      "description": "typography matters! https://twitter.com/kvncnls/status/1399077512014086150?s=21",
+      "items": [],
+      "title": "Typography"
+    },
+    {
+      "description": "https://www.thegoodlineheight.com",
+      "items": [],
+      "title": "Line Height"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Backgrounds"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "super advanced pokemon shiny card gradients https://github.com/simeydotme/pokemon-cards-css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-12-15T06:30:06Z",
+            "owner": "simeydotme",
+            "repo": "pokemon-cards-css",
+            "stars": 7866
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Remove backgrounds",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/imgly/background-removal-js",
+              "description": "open source Background Removal in the Browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-07-18T12:56:39Z",
+                "owner": "imgly",
+                "repo": "background-removal-js",
+                "stars": 7262
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "https://backgroundremoverai.com/",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "source https://github.com/nadermx/backgroundremover",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-10T01:20:32Z",
+                    "owner": "nadermx",
+                    "repo": "backgroundremover",
+                    "stars": 8017
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Misc Backgroundy Stuff"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Icons and Favicons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/mhlabs/cfn-diagram",
+          "description": "visualize cloudformation -> draw.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-30T13:16:18Z",
+            "owner": "mhlabs",
+            "repo": "cfn-diagram",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "4 major text-to-graph langauges (Comparison https://text-to-diagram.com/",
+          "description": ")",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/terrastruct/d2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-12T04:44:59Z",
+                "owner": "d2lang",
+                "repo": "d2",
+                "stars": 24905
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Code-based Graph tools"
+    },
+    {
+      "description": "from matrix8967: Some ANSI Color Codes and ASCIInema can carry you a long way. (note: may want to reformat this in future)",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ascii-tables is exactly what is says on the label.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ozh/ascii-tables/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T21:15:35Z",
+                "owner": "ozh",
+                "repo": "ascii-tables",
+                "stars": 646
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "netpen",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ebirger/netpen/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-02-11T16:12:37Z",
+                "owner": "ebirger",
+                "repo": "netpen",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "svgbob and svg-term are both great for creating SVGs out of these plain text files:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/marionebl/svg-term-cli/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-05-01T23:04:21Z",
+                "owner": "marionebl",
+                "repo": "svg-term-cli",
+                "stars": 4245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ivanceras/svgbob/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-04-22T23:09:36Z",
+                "owner": "ivanceras",
+                "repo": "svgbob",
+                "stars": 4221
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Here are some TUI/CLI focused frameworks. These are over kill for me - but maybe useful to someone here:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/peterbrittain/asciimatics/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-04T13:05:35Z",
+                "owner": "peterbrittain",
+                "repo": "asciimatics",
+                "stars": 4299
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TUI/Text-Based presentaion tools:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/slidevjs/slidev/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T04:51:57Z",
+                "owner": "slidevjs",
+                "repo": "slidev",
+                "stars": 48063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/maaslalani/slides/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-08T18:44:50Z",
+                "owner": "maaslalani",
+                "repo": "slides",
+                "stars": 11613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/d0c-s4vage/lookatme/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-02T20:22:15Z",
+                "owner": "d0c-s4vage",
+                "repo": "lookatme",
+                "stars": 2325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chunqiuyiyu/ervy/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-08-27T11:51:00Z",
+                "owner": "chunqiuyiyu",
+                "repo": "ervy",
+                "stars": 1606
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Honorable Mention goes to wtf-util and it's TUI configurator:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ggerganov/wtf-tui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2020-11-29T11:43:30Z",
+                "owner": "ggerganov",
+                "repo": "wtf-tui",
+                "stars": 100
+              }
+            }
+          ]
+        }
+      ],
+      "title": "matrix8967's list"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-05-20T05:59:28Z",
+            "owner": "pshihn",
+            "repo": "stippled-image",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "lo-fi autogenerated avatars",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/emeraldpay/hashicon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-02-08T02:50:59Z",
+                "owner": "emeraldpay",
+                "repo": "hashicon",
+                "stars": 200
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Avatars"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2020-09-28T05:00:37Z",
+            "owner": "mdo",
+            "repo": "wtf-forms",
+            "stars": 2672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-09T20:07:32Z",
+            "owner": "scottaohara",
+            "repo": "a11y_styled_form_controls",
+            "stars": 472
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Theme-ui-sketchy - https://github.com/beerose/theme-ui-sketchy",
+          "description": "roughjs components with themeui",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T20:57:07Z",
+            "owner": "beerose",
+            "repo": "theme-ui-sketchy",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Spinners",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/davidhu2000/react-spinners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T15:47:56Z",
+                "owner": "davidhu2000",
+                "repo": "react-spinners",
+                "stars": 3351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/adexin/spinners-react",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-02-07T08:39:12Z",
+                "owner": "adexin",
+                "repo": "spinners-react",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/JoshK2/react-spinners-css",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2025-03-26T21:42:09Z",
+                "owner": "JoshK2",
+                "repo": "react-spinners-css",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/JoshK2/react-spinners-css",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2025-03-26T21:42:09Z",
+                "owner": "JoshK2",
+                "repo": "react-spinners-css",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tienpham94/react-awesome-spinners",
+              "description": "requires styled components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-03T20:54:21Z",
+                "owner": "tienpham94",
+                "repo": "react-awesome-spinners",
+                "stars": 245
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Nice React Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "JPG/PNG to SVG",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/woltapp/blurhash",
+              "description": "small dynamic SVG placeholders for blurring up",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2024-07-08T22:23:42Z",
+                "owner": "woltapp",
+                "repo": "blurhash",
+                "stars": 17063
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SVG editors",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/SVG-Edit/svgedit",
+              "description": "fully-fledged SVG editor for sophisticated SVG editing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T17:53:30Z",
+                "owner": "SVG-Edit",
+                "repo": "svgedit",
+                "stars": 7777
+              }
+            }
+          ]
+        }
+      ],
+      "title": "SVG/Canvas Masking"
+    },
+    {
+      "description": "https://x.com/emilkowalski/status/2031742178297335879",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "motion graphics https://github.com/mojs/mojs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-07-30T16:54:33Z",
+            "owner": "mojs",
+            "repo": "mojs",
+            "stars": 18752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Page Transitions with swup https://github.com/swup/swup",
+          "description": "(css tricks)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:05:40Z",
+            "owner": "swup",
+            "repo": "swup",
+            "stars": 5218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layout https://github.com/aholachek/react-flip-toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-28T01:34:48Z",
+            "owner": "aholachek",
+            "repo": "react-flip-toolkit",
+            "stars": 4188
+          }
+        }
+      ],
+      "title": "Animations & Transitions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/brunnolou/react-morph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T08:38:23Z",
+            "owner": "brunnolou",
+            "repo": "react-morph",
+            "stars": 2547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kitze/react-genie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T09:55:36Z",
+            "owner": "kitze",
+            "repo": "react-genie",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Page transitions https://github.com/joerez/react-transitions/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T12:46:17Z",
+            "owner": "joerez",
+            "repo": "react-transitions",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "React Animation Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ideas for Improving UX"
+    },
+    {
+      "description": "https://emptystat.es/",
+      "items": [],
+      "title": "Empty states"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-DOM Browser Technologies"
+    },
+    {
+      "description": "free or mock data apis for demos",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Placeholder Pictures",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/imsky/holder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-10-07T03:19:47Z",
+                "owner": "imsky",
+                "repo": "holder",
+                "stars": 5799
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Misc",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/public-apis/public-apis",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/public-api-lists/public-api-lists",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-01T11:25:46Z",
+                    "owner": "public-api-lists",
+                    "repo": "public-api-lists",
+                    "stars": 15367
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T09:25:54Z",
+                "owner": "public-apis",
+                "repo": "public-apis",
+                "stars": 455762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Rolstenhouse/unofficial-apis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-05-27T18:59:32Z",
+                "owner": "Rolstenhouse",
+                "repo": "unofficial-apis",
+                "stars": 2746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mock fake user events https://github.com/andresionek91/fake-web-events",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-13T17:33:42Z",
+                "owner": "andresionek91",
+                "repo": "fake-web-events",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Marak/faker.js",
+              "description": "generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Mock APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Dataset collections",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78067
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SQL demos",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chinook: https://github.com/lerocha/chinook-database",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TSQL",
+                "last_commit": "2025-10-05T23:25:42Z",
+                "owner": "lerocha",
+                "repo": "chinook-database",
+                "stars": 2575
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Geo",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "NYC taxi dataset",
+              "description": "Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "(spark + iceberg quickstart",
+                  "description": "blog)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-02-15T11:52:25Z",
+                    "owner": "databricks",
+                    "repo": "docker-spark-iceberg",
+                    "stars": 383
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Misc?",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trashnet",
+              "description": "Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2023-06-02T03:39:01Z",
+                "owner": "garythung",
+                "repo": "trashnet",
+                "stars": 710
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Useful big datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/bradtraversy/design-resources-for-developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-24T10:07:48Z",
+            "owner": "bradtraversy",
+            "repo": "design-resources-for-developers",
+            "stars": 66639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/goabstract/Awesome-Design-Tools",
+          "description": "/ https://github.com/LisaDziuba/Awesome-Design-Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-28T19:57:31Z",
+            "owner": "goabstract",
+            "repo": "Awesome-Design-Tools",
+            "stars": 40859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/neutraltone/awesome-stock-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-11T22:01:53Z",
+            "owner": "neutraltone",
+            "repo": "awesome-stock-resources",
+            "stars": 14418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/emmabostian/design-inspiration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-12T10:55:11Z",
+            "owner": "emmabostian",
+            "repo": "design-inspiration",
+            "stars": 1188
+          }
+        }
+      ],
+      "title": "Other Lists like this one"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Vincenius/link-list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-24T08:29:31Z",
+            "owner": "Vincenius",
+            "repo": "link-list",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Demo HTML",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/cristurm/nyan-cat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2021-06-03T10:22:02Z",
+                "owner": "cristurm",
+                "repo": "nyan-cat",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/netlify/netlify-drop-demo-site/archive/master.zip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "CSS",
+                "last_commit": "2021-08-20T19:24:04Z",
+                "owner": "netlify",
+                "repo": "netlify-drop-demo-site",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "More Free Stuff"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:32.102Z",
+    "original_repository": "swyxio/spark-joy",
+    "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
+    "enhanced_repository": "enhansome/enhansome-spark-joy",
+    "enhanced_repository_description": null,
+    "title": "Awesome spark joy with stars"
+  }
+}
