@@ -264,7 +264,7 @@
                 "last_commit": "2026-06-25T12:14:32Z",
                 "owner": "sindresorhus",
                 "repo": "modern-normalize",
-                "stars": 7382
+                "stars": 7381
               }
             }
           ]
@@ -355,7 +355,7 @@
             "last_commit": "2025-12-15T06:30:06Z",
             "owner": "simeydotme",
             "repo": "pokemon-cards-css",
-            "stars": 7874
+            "stars": 7882
           }
         },
         {
@@ -393,7 +393,7 @@
                     "last_commit": "2026-07-10T01:20:32Z",
                     "owner": "nadermx",
                     "repo": "backgroundremover",
-                    "stars": 8017
+                    "stars": 8016
                   }
                 }
               ]
@@ -446,7 +446,7 @@
                 "last_commit": "2026-08-12T04:44:59Z",
                 "owner": "d2lang",
                 "repo": "d2",
-                "stars": 24917
+                "stars": 24929
               }
             }
           ]
@@ -529,7 +529,7 @@
                 "last_commit": "2026-04-22T23:09:36Z",
                 "owner": "ivanceras",
                 "repo": "svgbob",
-                "stars": 4222
+                "stars": 4220
               }
             }
           ]
@@ -568,10 +568,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T04:51:57Z",
+                "last_commit": "2026-08-14T11:37:40Z",
                 "owner": "slidevjs",
                 "repo": "slidev",
-                "stars": 48080
+                "stars": 48089
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-07-08T18:44:50Z",
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11612
+                "stars": 11613
               }
             },
             {
@@ -887,10 +887,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:33:18Z",
+            "last_commit": "2026-08-14T08:16:06Z",
             "owner": "swup",
             "repo": "swup",
-            "stars": 5220
+            "stars": 5219
           }
         },
         {
@@ -1018,7 +1018,7 @@
                     "last_commit": "2026-08-01T11:25:46Z",
                     "owner": "public-api-lists",
                     "repo": "public-api-lists",
-                    "stars": 15378
+                    "stars": 15393
                   }
                 }
               ],
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-13T21:07:34Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 456008
+                "stars": 458620
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-08-04T19:54:53Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78084
+                "stars": 78094
               }
             }
           ]
@@ -1110,7 +1110,7 @@
                 "last_commit": "2025-10-05T23:25:42Z",
                 "owner": "lerocha",
                 "repo": "chinook-database",
-                "stars": 2578
+                "stars": 2580
               }
             }
           ]
@@ -1181,7 +1181,7 @@
             "last_commit": "2026-05-24T10:07:48Z",
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66648
+            "stars": 66654
           }
         },
         {
@@ -1195,7 +1195,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40871
+            "stars": 40878
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-02-11T22:01:53Z",
             "owner": "neutraltone",
             "repo": "awesome-stock-resources",
-            "stars": 14423
+            "stars": 14430
           }
         },
         {
@@ -1286,7 +1286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:30:48.997Z",
+    "last_updated": "2026-08-15T02:19:59.787Z",
     "original_repository": "swyxio/spark-joy",
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
     "enhanced_repository": "enhansome/enhansome-spark-joy",
