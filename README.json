@@ -6,6 +6,57 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Web Components",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Weightless",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 169870302,
+                        "language": "TypeScript",
+                        "last_commit": "2024-09-12T08:40:46Z",
+                        "owner": "andreasbm",
+                        "repo": "weightless",
+                        "stars": 380
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": "bigger learning curve, may have js, but more OOTB)",
+              "node_type": "group",
+              "title": "Heavier CSS Frameworks"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serious CSS Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lighter, no js. preview some of these with https://sites.yax.com/",
+              "description": ", https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179930320,
+                "language": "HTML",
+                "last_commit": "2026-04-03T09:53:57Z",
+                "owner": "dbohdan",
+                "repo": "classless-css",
+                "stars": 2368
+              }
+            },
+            {
               "node_type": "item",
               "title": "https://latex.vercel.app/",
               "description": "style your website like a LATEX document - (original version https://github.com/davidrzs/latexcss)",
@@ -67,7 +118,7 @@
                     "last_commit": "2026-08-10T01:07:50Z",
                     "owner": "xz",
                     "repo": "new.css",
-                    "stars": 4042
+                    "stars": 4041
                   }
                 },
                 {
@@ -200,12 +251,27 @@
               ]
             }
           ],
-          "description": "lighter, no js. preview some of these with https://sites.yax.com/, https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css\nSuperlight: 100 bytes of css to look great nearly everywhere\nsee also http://bettermotherfuckingwebsite.com/",
+          "description": "Superlight: 100 bytes of css to look great nearly everywhere\nsee also http://bettermotherfuckingwebsite.com/",
           "node_type": "group",
           "title": "Drop-in CSS Frameworks"
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "https://terminalcss.xyz/",
+              "description": "and https://github.com/webtui/webtui",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942928395,
+                "language": "MDX",
+                "last_commit": "2026-08-12T21:31:08Z",
+                "owner": "webtui",
+                "repo": "webtui",
+                "stars": 2428
+              }
+            },
             {
               "node_type": "item",
               "title": "NES.css",
@@ -233,7 +299,7 @@
                 "last_commit": "2026-06-19T14:10:54Z",
                 "owner": "vinibiavatti1",
                 "repo": "TuiCss",
-                "stars": 1967
+                "stars": 1968
               }
             },
             {
@@ -448,13 +514,215 @@
           "description": null,
           "node_type": "group",
           "title": "CSS A11y Checkers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/thedevdojo/tails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513996482,
+                "language": "PHP",
+                "last_commit": "2026-08-04T00:40:34Z",
+                "owner": "thedevdojo",
+                "repo": "tails",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tailwind Component Libraries"
         }
       ],
       "title": "CSS/UI Templates"
     },
     {
+      "description": "typography matters! https://twitter.com/kvncnls/status/1399077512014086150?s=21",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Free fonts that are great with examples (thanks @edadams",
+              "description": ")",
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Google Fonts - (see Harry Roberts on Google Font loading perf",
+                  "description": "you should self host this)",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Fira Sans",
+                      "description": "related to Fira Code for devvy stuff",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 26500787,
+                        "language": "Clojure",
+                        "last_commit": "2026-07-28T17:02:16Z",
+                        "owner": "tonsky",
+                        "repo": "FiraCode",
+                        "stars": 81948
+                      }
+                    }
+                  ]
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 184520105,
+                "language": null,
+                "last_commit": "2026-06-03T06:46:55Z",
+                "owner": "swyxio",
+                "repo": "spark-joy",
+                "stars": 9795
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/zachleat/web-font-loading-recipes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 107342634,
+                    "language": "HTML",
+                    "last_commit": "2022-01-26T12:52:04Z",
+                    "owner": "zachleat",
+                    "repo": "web-font-loading-recipes",
+                    "stars": 1062
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Font Loading Strategy"
+            }
+          ],
+          "description": "See also Modern Font Stacks - discussion",
+          "node_type": "group",
+          "title": "Fonts"
+        }
+      ],
+      "title": "Typography"
+    },
+    {
+      "description": "(what are these?)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sanitize.css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6566489,
+            "language": "CSS",
+            "last_commit": "2026-03-26T11:31:36Z",
+            "owner": "csstools",
+            "repo": "sanitize.css",
+            "stars": 5301
+          }
+        }
+      ],
+      "title": "For speed, use [System Font Stacks](https://systemfontstack.com/) (incl. Segoe and Roboto)"
+    },
+    {
+      "description": "Pick a primary \"brand\" color to match your personality. DO NOT OVERUSE IT.\nYou can also have a grey for secondary content, and lighter grey for tertiary content.\nDon't use system default/named colors, too brutal. Soften it a bit. \"Never use black\" has been proposed as a rule, but this is debated.\nHere's a more complete primer on color personalities with more examples.\nMind accessibility. 1 in 12 men and 1 in 200 women have color blindness. Make sure to check that important distinctions can be perceived.\nOne liner dark mode (careful about perf!): - more filters here\nhttps://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "big list of color names: https://github.com/meodai/color-names",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89168390,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T13:31:59Z",
+                "owner": "meodai",
+                "repo": "color-names",
+                "stars": 2979
+              }
+            }
+          ],
+          "description": "Not tools but still important so here they are",
+          "node_type": "group",
+          "title": "Color Theory"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Open source libraries",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "D3 Color scales",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60423088,
+                    "language": "JavaScript",
+                    "last_commit": "2024-06-16T22:57:03Z",
+                    "owner": "d3",
+                    "repo": "d3-scale-chromatic",
+                    "stars": 818
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Dataviz is a special category since it's not just design, but information. Credit to Teej's thread.",
+          "node_type": "group",
+          "title": "Color Theory for Data Visualization"
+        }
+      ],
+      "title": "Colors"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/bansal-io/pattern.css",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 256725670,
+                    "language": "HTML",
+                    "last_commit": "2022-03-26T13:15:42Z",
+                    "owner": "bansal",
+                    "repo": "pattern.css",
+                    "stars": 3932
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Background Patterns"
+            }
+          ],
+          "description": "Not just for background backgrounds - applying gradients and background images to text is super underrated. Examples:\nBackground Radial Bursts behind images:",
+          "node_type": "group",
+          "title": "Background Gradients and Patterns"
+        },
         {
           "children": [
             {
@@ -469,7 +737,7 @@
                 "last_commit": "2025-12-15T06:30:06Z",
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7936
+                "stars": 7937
               }
             },
             {
@@ -509,7 +777,7 @@
                         "last_commit": "2026-07-10T01:20:32Z",
                         "owner": "nadermx",
                         "repo": "backgroundremover",
-                        "stars": 8019
+                        "stars": 8020
                       }
                     }
                   ]
@@ -530,6 +798,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "https://github.com/joshbuchea/HEAD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56717493,
+                "language": null,
+                "last_commit": "2026-05-28T02:33:42Z",
+                "owner": "joshbuchea",
+                "repo": "HEAD",
+                "stars": 30263
+              }
+            }
+          ],
+          "description": "Ideas of things you can include based on my own site.\nother boilerplates to use",
+          "node_type": "group",
+          "title": "tags and opengraph"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -543,7 +833,7 @@
                     "last_commit": "2026-05-18T06:50:14Z",
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15377
+                    "stars": 15378
                   }
                 },
                 {
@@ -573,7 +863,7 @@
                     "last_commit": "2026-04-28T09:25:21Z",
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8292
+                    "stars": 8293
                   }
                 },
                 {
@@ -730,6 +1020,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://dbdiagram.io/home",
+              "description": "which also has an open-source markup language: https://github.com/holistics/dbml",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177372680,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T05:50:08Z",
+                "owner": "holistics",
+                "repo": "dbml",
+                "stars": 3679
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Entity Relationship Diagrams"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lynn langit's list https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282442201,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-26T02:03:26Z",
+                "owner": "lynnlangit",
+                "repo": "learning-cloud",
+                "stars": 698
+              }
+            }
+          ],
+          "description": "useful eg if needs logos\nfurther reading",
+          "node_type": "group",
+          "title": "Cloud Architecture diagrams"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "https://github.com/mhlabs/cfn-diagram",
               "description": "visualize cloudformation -> draw.io",
               "children": [],
@@ -760,7 +1094,7 @@
                     "last_commit": "2026-08-23T20:37:52Z",
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25046
+                    "stars": 25052
                   }
                 }
               ]
@@ -776,6 +1110,50 @@
     {
       "description": "Backend entity/ ERD /SQL diagramming\nDIY illustration",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/MariaLetta/mega-doodles-pack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200847230,
+                "language": null,
+                "last_commit": "2019-08-06T12:37:54Z",
+                "owner": "MariaLetta",
+                "repo": "mega-doodles-pack",
+                "stars": 578
+              }
+            }
+          ],
+          "description": "Illo's in context: https://onepagelove.com/tag/illustrations",
+          "node_type": "group",
+          "title": "Illustrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/asciitosvg/asciitosvg",
+              "description": "ascii to svg diagrams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38574718,
+                "language": "Go",
+                "last_commit": "2022-11-26T18:04:16Z",
+                "owner": "asciitosvg",
+                "repo": "asciitosvg",
+                "stars": 225
+              }
+            }
+          ],
+          "description": "exampels of ascii art in code: https://blog.regehr.org/archives/1653 (HN discussion)",
+          "node_type": "group",
+          "title": "ASCII Art"
+        },
         {
           "children": [
             {
@@ -895,10 +1273,10 @@
                     "archived": false,
                     "id": 361044034,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T06:22:42Z",
+                    "last_commit": "2026-08-24T04:52:54Z",
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48185
+                    "stars": 48194
                   }
                 },
                 {
@@ -913,7 +1291,7 @@
                     "last_commit": "2026-07-08T18:44:50Z",
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11624
+                    "stars": 11626
                   }
                 },
                 {
@@ -978,6 +1356,57 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "lists of more resources",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/neutraltone/awesome-stock-resources",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45307548,
+                    "language": "Ruby",
+                    "last_commit": "2026-02-11T22:01:53Z",
+                    "owner": "neutraltone",
+                    "repo": "awesome-stock-resources",
+                    "stars": 14451
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Image modification for hover effects: https://photomosh.com/",
+          "node_type": "group",
+          "title": "Stock Photos and Videos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/remotion-dev/remotion",
+              "description": "code videos with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274495425,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:47:15Z",
+                "owner": "remotion-dev",
+                "repo": "remotion",
+                "stars": 57241
+              }
+            }
+          ],
+          "description": "tips for product tours https://dev.to/highlight/how-to-create-animated-product-stories-2bcd\nmisc\nDo it for you\nTutorials from successful Youtubers",
+          "node_type": "group",
+          "title": "Video creation tools"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image",
               "description": null,
@@ -1026,6 +1455,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "meta theme-color https://github.com/sw-yx/swyxkit/issues/19",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 361526956,
+            "language": "Svelte",
+            "last_commit": "2025-09-22T12:38:56Z",
+            "owner": "swyxio",
+            "repo": "swyxkit",
+            "stars": 711
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1066,6 +1510,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/Pikaday/Pikaday",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 6121126,
+                "language": "JavaScript",
+                "last_commit": "2025-08-11T14:59:29Z",
+                "owner": "Pikaday",
+                "repo": "Pikaday",
+                "stars": 8085
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datepickers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sparkline fonts in text: https://github.com/aftertheflood/sparks",
+              "description": "and https://www.scribbletone.com/typefaces/ff-chartwell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100490124,
+                "language": "CSS",
+                "last_commit": "2023-09-21T23:26:10Z",
+                "owner": "aftertheflood",
+                "repo": "sparks",
+                "stars": 2397
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lightweight Charts/Dataviz"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/cruip/tailwind-dashboard-template",
+              "description": "This one is made with Tailwind and React and includes optional chart components built with Chart.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359729337,
+                "language": "JavaScript",
+                "last_commit": "2025-03-02T15:55:04Z",
+                "owner": "cruip",
+                "repo": "tailwind-dashboard-template",
+                "stars": 2833
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dashboarding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Theme-ui-sketchy - https://github.com/beerose/theme-ui-sketchy",
               "description": "roughjs components with themeui",
               "children": [],
@@ -1093,10 +1603,10 @@
                     "archived": false,
                     "id": 96266792,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T03:46:38Z",
+                    "last_commit": "2026-08-24T04:11:08Z",
                     "owner": "davidhu2000",
                     "repo": "react-spinners",
-                    "stars": 3352
+                    "stars": 3353
                   }
                 },
                 {
@@ -1165,6 +1675,28 @@
           "description": null,
           "node_type": "group",
           "title": "Nice React Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/thedevelobear/react-rewards",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157291522,
+                "language": "TypeScript",
+                "last_commit": "2025-01-30T18:11:56Z",
+                "owner": "thedevelobear",
+                "repo": "react-rewards",
+                "stars": 1674
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Gamification"
         }
       ],
       "title": "Individual HTML Elements"
@@ -1191,7 +1723,7 @@
                     "last_commit": "2024-07-08T22:23:42Z",
                     "owner": "woltapp",
                     "repo": "blurhash",
-                    "stars": 17070
+                    "stars": 17069
                   }
                 }
               ]
@@ -1213,7 +1745,7 @@
                     "last_commit": "2026-08-05T17:53:30Z",
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7799
+                    "stars": 7801
                   }
                 }
               ]
@@ -1278,6 +1810,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205101803,
+                "language": "CSS",
+                "last_commit": "2025-03-26T21:42:09Z",
+                "owner": "JoshK2",
+                "repo": "react-spinners-css",
+                "stars": 335
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Loading Spinners"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "https://github.com/brunnolou/react-morph",
               "description": null,
               "children": [],
@@ -1335,6 +1889,49 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "https://github.com/shuding/cobe",
+              "description": "webgl globe (tweet, stripe)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429536908,
+                "language": "TypeScript",
+                "last_commit": "2026-07-18T01:14:36Z",
+                "owner": "shuding",
+                "repo": "cobe",
+                "stars": 5669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/makepad/makepad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171664300,
+                "language": "Rust",
+                "last_commit": "2026-08-24T08:14:45Z",
+                "owner": "makepad",
+                "repo": "makepad",
+                "stars": 6575
+              }
+            }
+          ],
+          "description": "Makepad",
+          "node_type": "group",
+          "title": "WebGL"
+        }
+      ],
+      "title": "Non-DOM Browser Technologies"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Placeholder Pictures",
               "description": null,
@@ -1378,7 +1975,7 @@
                         "last_commit": "2026-08-01T11:25:46Z",
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15593
+                        "stars": 15598
                       }
                     }
                   ],
@@ -1389,7 +1986,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 469268
+                    "stars": 469628
                   }
                 },
                 {
@@ -1448,7 +2045,7 @@
                     "last_commit": "2026-08-23T23:52:17Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78558
+                    "stars": 78582
                   }
                 }
               ]
@@ -1545,7 +2142,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66738
+                "stars": 66744
               }
             },
             {
@@ -1560,7 +2157,7 @@
                 "last_commit": "2024-07-28T19:57:31Z",
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 40979
+                "stars": 40986
               }
             },
             {
@@ -1575,7 +2172,7 @@
                 "last_commit": "2026-02-11T22:01:53Z",
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14450
+                "stars": 14451
               }
             },
             {
@@ -1662,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:37:53.211Z",
+    "last_updated": "2026-08-24T13:51:57.714Z",
     "original_repository": "swyxio/spark-joy",
     "original_repository_id": 184520105,
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
