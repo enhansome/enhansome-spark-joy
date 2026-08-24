@@ -164,7 +164,7 @@
                     "last_commit": "2026-04-03T09:53:57Z",
                     "owner": "dbohdan",
                     "repo": "classless-css",
-                    "stars": 2367
+                    "stars": 2368
                   }
                 },
                 {
@@ -218,7 +218,7 @@
                 "last_commit": "2024-01-17T20:53:09Z",
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21809
+                "stars": 21812
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-06-19T14:10:54Z",
                 "owner": "vinibiavatti1",
                 "repo": "TuiCss",
-                "stars": 1966
+                "stars": 1967
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-12T02:19:35Z",
                 "owner": "micah5",
                 "repo": "PSone.css",
-                "stars": 776
+                "stars": 777
               }
             },
             {
@@ -283,7 +283,7 @@
                     "last_commit": "2025-09-07T13:40:43Z",
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11454
+                    "stars": 11458
                   }
                 },
                 {
@@ -298,7 +298,7 @@
                     "last_commit": "2025-11-12T20:06:47Z",
                     "owner": "kristopolous",
                     "repo": "BOOTSTRA.386",
-                    "stars": 6874
+                    "stars": 6876
                   }
                 },
                 {
@@ -469,7 +469,7 @@
                 "last_commit": "2025-12-15T06:30:06Z",
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7935
+                "stars": 7936
               }
             },
             {
@@ -543,7 +543,7 @@
                     "last_commit": "2026-05-18T06:50:14Z",
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15378
+                    "stars": 15377
                   }
                 },
                 {
@@ -558,7 +558,7 @@
                     "last_commit": "2026-08-21T22:07:55Z",
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
-                    "stars": 10788
+                    "stars": 10789
                   }
                 },
                 {
@@ -573,7 +573,7 @@
                     "last_commit": "2026-04-28T09:25:21Z",
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8291
+                    "stars": 8292
                   }
                 },
                 {
@@ -588,7 +588,7 @@
                     "last_commit": "2026-08-07T13:25:21Z",
                     "owner": "twbs",
                     "repo": "icons",
-                    "stars": 8105
+                    "stars": 8107
                   }
                 },
                 {
@@ -638,7 +638,7 @@
                         "last_commit": "2026-08-21T16:52:21Z",
                         "owner": "iconify",
                         "repo": "iconify",
-                        "stars": 6274
+                        "stars": 6276
                       }
                     }
                   ]
@@ -757,10 +757,10 @@
                     "archived": false,
                     "id": 533087958,
                     "language": "Go",
-                    "last_commit": "2026-08-12T04:44:59Z",
+                    "last_commit": "2026-08-23T20:37:52Z",
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25037
+                    "stars": 25046
                   }
                 }
               ]
@@ -795,7 +795,7 @@
                     "last_commit": "2026-08-07T21:15:35Z",
                     "owner": "ozh",
                     "repo": "ascii-tables",
-                    "stars": 647
+                    "stars": 648
                   }
                 }
               ]
@@ -898,7 +898,7 @@
                     "last_commit": "2026-08-19T06:22:42Z",
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48181
+                    "stars": 48185
                   }
                 },
                 {
@@ -913,7 +913,7 @@
                     "last_commit": "2026-07-08T18:44:50Z",
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11623
+                    "stars": 11624
                   }
                 },
                 {
@@ -1096,7 +1096,7 @@
                     "last_commit": "2026-08-17T03:46:38Z",
                     "owner": "davidhu2000",
                     "repo": "react-spinners",
-                    "stars": 3351
+                    "stars": 3352
                   }
                 },
                 {
@@ -1191,7 +1191,7 @@
                     "last_commit": "2024-07-08T22:23:42Z",
                     "owner": "woltapp",
                     "repo": "blurhash",
-                    "stars": 17069
+                    "stars": 17070
                   }
                 }
               ]
@@ -1241,7 +1241,7 @@
             "last_commit": "2026-07-30T16:54:33Z",
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18754
+            "stars": 18755
           }
         },
         {
@@ -1256,7 +1256,7 @@
             "last_commit": "2026-08-14T08:16:06Z",
             "owner": "swup",
             "repo": "swup",
-            "stars": 5218
+            "stars": 5219
           }
         },
         {
@@ -1378,7 +1378,7 @@
                         "last_commit": "2026-08-01T11:25:46Z",
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15576
+                        "stars": 15593
                       }
                     }
                   ],
@@ -1389,7 +1389,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 468674
+                    "stars": 469268
                   }
                 },
                 {
@@ -1445,10 +1445,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-21T17:12:16Z",
+                    "last_commit": "2026-08-23T23:52:17Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78490
+                    "stars": 78558
                   }
                 }
               ]
@@ -1545,7 +1545,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66732
+                "stars": 66738
               }
             },
             {
@@ -1560,7 +1560,7 @@
                 "last_commit": "2024-07-28T19:57:31Z",
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 40963
+                "stars": 40979
               }
             },
             {
@@ -1575,7 +1575,7 @@
                 "last_commit": "2026-02-11T22:01:53Z",
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14449
+                "stars": 14450
               }
             },
             {
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:37:46.014Z",
+    "last_updated": "2026-08-24T02:37:53.211Z",
     "original_repository": "swyxio/spark-joy",
     "original_repository_id": 184520105,
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
