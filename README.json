@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-12T21:31:08Z",
                 "owner": "webtui",
                 "repo": "webtui",
-                "stars": 2428
+                "stars": 2427
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2024-01-17T20:53:09Z",
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21812
+                "stars": 21814
               }
             },
             {
@@ -349,7 +349,7 @@
                     "last_commit": "2025-09-07T13:40:43Z",
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11458
+                    "stars": 11460
                   }
                 },
                 {
@@ -391,7 +391,7 @@
                     "archived": false,
                     "id": 222181584,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T15:24:05Z",
+                    "last_commit": "2026-08-24T15:09:23Z",
                     "owner": "codedgar",
                     "repo": "Puppertino",
                     "stars": 1155
@@ -567,7 +567,7 @@
                         "last_commit": "2026-07-28T17:02:16Z",
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 81948
+                        "stars": 81950
                       }
                     }
                   ]
@@ -580,7 +580,7 @@
                 "last_commit": "2026-06-03T06:46:55Z",
                 "owner": "swyxio",
                 "repo": "spark-joy",
-                "stars": 9795
+                "stars": 9796
               }
             },
             {
@@ -648,7 +648,7 @@
                 "archived": false,
                 "id": 89168390,
                 "language": "JavaScript",
-                "last_commit": "2026-08-06T13:31:59Z",
+                "last_commit": "2026-08-24T18:57:52Z",
                 "owner": "meodai",
                 "repo": "color-names",
                 "stars": 2979
@@ -737,7 +737,7 @@
                 "last_commit": "2025-12-15T06:30:06Z",
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7937
+                "stars": 7942
               }
             },
             {
@@ -777,7 +777,7 @@
                         "last_commit": "2026-07-10T01:20:32Z",
                         "owner": "nadermx",
                         "repo": "backgroundremover",
-                        "stars": 8020
+                        "stars": 8017
                       }
                     }
                   ]
@@ -833,7 +833,7 @@
                     "last_commit": "2026-05-18T06:50:14Z",
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15378
+                    "stars": 15379
                   }
                 },
                 {
@@ -845,10 +845,10 @@
                     "archived": false,
                     "id": 263452252,
                     "language": "HTML",
-                    "last_commit": "2026-08-21T22:07:55Z",
+                    "last_commit": "2026-08-24T21:42:02Z",
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
-                    "stars": 10789
+                    "stars": 10790
                   }
                 },
                 {
@@ -928,7 +928,7 @@
                         "last_commit": "2026-08-21T16:52:21Z",
                         "owner": "iconify",
                         "repo": "iconify",
-                        "stars": 6276
+                        "stars": 6277
                       }
                     }
                   ]
@@ -950,7 +950,7 @@
                         "last_commit": "2023-02-24T07:46:02Z",
                         "owner": "bytedance",
                         "repo": "IconPark",
-                        "stars": 9062
+                        "stars": 9063
                       }
                     },
                     {
@@ -1091,10 +1091,10 @@
                     "archived": false,
                     "id": 533087958,
                     "language": "Go",
-                    "last_commit": "2026-08-23T20:37:52Z",
+                    "last_commit": "2026-08-25T00:08:49Z",
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25052
+                    "stars": 25060
                   }
                 }
               ]
@@ -1217,7 +1217,7 @@
                     "last_commit": "2024-05-01T23:04:21Z",
                     "owner": "marionebl",
                     "repo": "svg-term-cli",
-                    "stars": 4243
+                    "stars": 4244
                   }
                 },
                 {
@@ -1273,10 +1273,10 @@
                     "archived": false,
                     "id": 361044034,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T04:52:54Z",
+                    "last_commit": "2026-08-25T00:42:02Z",
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48194
+                    "stars": 48205
                   }
                 },
                 {
@@ -1291,7 +1291,7 @@
                     "last_commit": "2026-07-08T18:44:50Z",
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11626
+                    "stars": 11628
                   }
                 },
                 {
@@ -1372,7 +1372,7 @@
                     "last_commit": "2026-02-11T22:01:53Z",
                     "owner": "neutraltone",
                     "repo": "awesome-stock-resources",
-                    "stars": 14451
+                    "stars": 14453
                   }
                 }
               ]
@@ -1393,10 +1393,10 @@
                 "archived": false,
                 "id": 274495425,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:47:15Z",
+                "last_commit": "2026-08-24T20:08:37Z",
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57241
+                "stars": 57270
               }
             }
           ],
@@ -1745,7 +1745,7 @@
                     "last_commit": "2026-08-05T17:53:30Z",
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7801
+                    "stars": 7802
                   }
                 }
               ]
@@ -1803,7 +1803,7 @@
             "last_commit": "2024-09-28T01:34:48Z",
             "owner": "aholachek",
             "repo": "react-flip-toolkit",
-            "stars": 4186
+            "stars": 4185
           }
         },
         {
@@ -1915,7 +1915,7 @@
                 "last_commit": "2026-08-24T08:14:45Z",
                 "owner": "makepad",
                 "repo": "makepad",
-                "stars": 6575
+                "stars": 6576
               }
             }
           ],
@@ -1975,7 +1975,7 @@
                         "last_commit": "2026-08-01T11:25:46Z",
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15598
+                        "stars": 15611
                       }
                     }
                   ],
@@ -1986,7 +1986,7 @@
                     "last_commit": "2026-08-19T21:44:19Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 469628
+                    "stars": 469914
                   }
                 },
                 {
@@ -2001,7 +2001,7 @@
                     "last_commit": "2024-05-27T18:59:32Z",
                     "owner": "Rolstenhouse",
                     "repo": "unofficial-apis",
-                    "stars": 2746
+                    "stars": 2747
                   }
                 },
                 {
@@ -2042,10 +2042,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-23T23:52:17Z",
+                    "last_commit": "2026-08-24T19:56:43Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78582
+                    "stars": 78599
                   }
                 }
               ]
@@ -2142,7 +2142,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66744
+                "stars": 66747
               }
             },
             {
@@ -2157,7 +2157,7 @@
                 "last_commit": "2024-07-28T19:57:31Z",
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 40986
+                "stars": 40991
               }
             },
             {
@@ -2172,7 +2172,7 @@
                 "last_commit": "2026-02-11T22:01:53Z",
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14451
+                "stars": 14453
               }
             },
             {
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:57.714Z",
+    "last_updated": "2026-08-25T02:32:00.739Z",
     "original_repository": "swyxio/spark-joy",
     "original_repository_id": 184520105,
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
