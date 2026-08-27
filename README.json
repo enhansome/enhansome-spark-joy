@@ -53,7 +53,7 @@
                 "last_commit": "2026-04-03T09:53:57Z",
                 "owner": "dbohdan",
                 "repo": "classless-css",
-                "stars": 2370
+                "stars": 2371
               }
             },
             {
@@ -103,7 +103,7 @@
                     "last_commit": "2026-04-07T01:47:31Z",
                     "owner": "oxalorg",
                     "repo": "sakura",
-                    "stars": 4385
+                    "stars": 4386
                   }
                 },
                 {
@@ -118,7 +118,7 @@
                     "last_commit": "2026-08-10T01:07:50Z",
                     "owner": "xz",
                     "repo": "new.css",
-                    "stars": 4041
+                    "stars": 4044
                   }
                 },
                 {
@@ -215,7 +215,7 @@
                     "last_commit": "2026-04-03T09:53:57Z",
                     "owner": "dbohdan",
                     "repo": "classless-css",
-                    "stars": 2370
+                    "stars": 2371
                   }
                 },
                 {
@@ -230,7 +230,7 @@
                     "last_commit": "2024-07-25T21:43:47Z",
                     "owner": "dohliam",
                     "repo": "dropin-minimal-css",
-                    "stars": 1823
+                    "stars": 1826
                   }
                 },
                 {
@@ -284,7 +284,7 @@
                 "last_commit": "2024-01-17T20:53:09Z",
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21814
+                "stars": 21820
               }
             },
             {
@@ -349,7 +349,7 @@
                     "last_commit": "2025-09-07T13:40:43Z",
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11458
+                    "stars": 11461
                   }
                 },
                 {
@@ -379,7 +379,7 @@
                     "last_commit": "2025-03-08T16:02:01Z",
                     "owner": "botoxparty",
                     "repo": "XP.css",
-                    "stars": 3066
+                    "stars": 3067
                   }
                 },
                 {
@@ -468,7 +468,7 @@
                     "last_commit": "2026-06-25T12:14:32Z",
                     "owner": "sindresorhus",
                     "repo": "modern-normalize",
-                    "stars": 7386
+                    "stars": 7389
                   }
                 }
               ]
@@ -567,7 +567,7 @@
                         "last_commit": "2026-07-28T17:02:16Z",
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 81946
+                        "stars": 81951
                       }
                     }
                   ]
@@ -580,7 +580,7 @@
                 "last_commit": "2026-06-03T06:46:55Z",
                 "owner": "swyxio",
                 "repo": "spark-joy",
-                "stars": 9795
+                "stars": 9796
               }
             },
             {
@@ -628,7 +628,7 @@
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5301
+            "stars": 5302
           }
         }
       ],
@@ -648,10 +648,10 @@
                 "archived": false,
                 "id": 89168390,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T18:57:52Z",
+                "last_commit": "2026-08-26T12:59:18Z",
                 "owner": "meodai",
                 "repo": "color-names",
-                "stars": 2981
+                "stars": 2982
               }
             }
           ],
@@ -737,7 +737,7 @@
                 "last_commit": "2025-12-15T06:30:06Z",
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7943
+                "stars": 7955
               }
             },
             {
@@ -757,7 +757,7 @@
                     "last_commit": "2025-07-18T12:56:39Z",
                     "owner": "imgly",
                     "repo": "background-removal-js",
-                    "stars": 7282
+                    "stars": 7287
                   }
                 },
                 {
@@ -777,7 +777,7 @@
                         "last_commit": "2026-07-10T01:20:32Z",
                         "owner": "nadermx",
                         "repo": "backgroundremover",
-                        "stars": 8019
+                        "stars": 8020
                       }
                     }
                   ]
@@ -809,7 +809,7 @@
                 "last_commit": "2026-05-28T02:33:42Z",
                 "owner": "joshbuchea",
                 "repo": "HEAD",
-                "stars": 30264
+                "stars": 30262
               }
             }
           ],
@@ -845,7 +845,7 @@
                     "archived": false,
                     "id": 263452252,
                     "language": "HTML",
-                    "last_commit": "2026-08-25T18:04:21Z",
+                    "last_commit": "2026-08-26T15:14:45Z",
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
                     "stars": 10792
@@ -863,7 +863,7 @@
                     "last_commit": "2026-04-28T09:25:21Z",
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8294
+                    "stars": 8297
                   }
                 },
                 {
@@ -878,7 +878,7 @@
                     "last_commit": "2026-08-07T13:25:21Z",
                     "owner": "twbs",
                     "repo": "icons",
-                    "stars": 8109
+                    "stars": 8110
                   }
                 },
                 {
@@ -893,7 +893,7 @@
                     "last_commit": "2022-08-22T16:19:24Z",
                     "owner": "propublica",
                     "repo": "weepeople",
-                    "stars": 540
+                    "stars": 541
                   }
                 },
                 {
@@ -925,10 +925,10 @@
                         "archived": false,
                         "id": 82819844,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-21T16:52:21Z",
+                        "last_commit": "2026-08-26T20:04:54Z",
                         "owner": "iconify",
                         "repo": "iconify",
-                        "stars": 6278
+                        "stars": 6279
                       }
                     }
                   ]
@@ -950,7 +950,7 @@
                         "last_commit": "2023-02-24T07:46:02Z",
                         "owner": "bytedance",
                         "repo": "IconPark",
-                        "stars": 9063
+                        "stars": 9061
                       }
                     },
                     {
@@ -1030,7 +1030,7 @@
                 "last_commit": "2026-08-18T05:50:08Z",
                 "owner": "holistics",
                 "repo": "dbml",
-                "stars": 3680
+                "stars": 3679
               }
             }
           ],
@@ -1094,7 +1094,7 @@
                     "last_commit": "2026-08-25T00:08:49Z",
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25071
+                    "stars": 25084
                   }
                 }
               ]
@@ -1124,7 +1124,7 @@
                 "last_commit": "2019-08-06T12:37:54Z",
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 578
+                "stars": 579
               }
             }
           ],
@@ -1276,7 +1276,7 @@
                     "last_commit": "2026-08-25T00:42:02Z",
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48245
+                    "stars": 48298
                   }
                 },
                 {
@@ -1291,7 +1291,7 @@
                     "last_commit": "2026-07-08T18:44:50Z",
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11629
+                    "stars": 11630
                   }
                 },
                 {
@@ -1372,7 +1372,7 @@
                     "last_commit": "2026-02-11T22:01:53Z",
                     "owner": "neutraltone",
                     "repo": "awesome-stock-resources",
-                    "stars": 14454
+                    "stars": 14455
                   }
                 }
               ]
@@ -1393,10 +1393,10 @@
                 "archived": false,
                 "id": 274495425,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T21:24:08Z",
+                "last_commit": "2026-08-27T11:12:02Z",
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57340
+                "stars": 57479
               }
             }
           ],
@@ -1745,7 +1745,7 @@
                     "last_commit": "2026-08-05T17:53:30Z",
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7803
+                    "stars": 7805
                   }
                 }
               ]
@@ -1788,7 +1788,7 @@
             "last_commit": "2026-08-14T08:16:06Z",
             "owner": "swup",
             "repo": "swup",
-            "stars": 5219
+            "stars": 5221
           }
         },
         {
@@ -1900,7 +1900,7 @@
                 "last_commit": "2026-07-18T01:14:36Z",
                 "owner": "shuding",
                 "repo": "cobe",
-                "stars": 5672
+                "stars": 5678
               }
             },
             {
@@ -1912,10 +1912,10 @@
                 "archived": false,
                 "id": 171664300,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:38:57Z",
+                "last_commit": "2026-08-26T08:43:59Z",
                 "owner": "makepad",
                 "repo": "makepad",
-                "stars": 6577
+                "stars": 6580
               }
             }
           ],
@@ -1975,7 +1975,7 @@
                         "last_commit": "2026-08-01T11:25:46Z",
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15621
+                        "stars": 15636
                       }
                     }
                   ],
@@ -1983,10 +1983,10 @@
                     "archived": false,
                     "id": 54346799,
                     "language": "Python",
-                    "last_commit": "2026-08-19T21:44:19Z",
+                    "last_commit": "2026-08-26T19:19:56Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 470496
+                    "stars": 471355
                   }
                 },
                 {
@@ -2042,10 +2042,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-25T16:12:04Z",
+                    "last_commit": "2026-08-26T21:15:40Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78633
+                    "stars": 78669
                   }
                 }
               ]
@@ -2067,7 +2067,7 @@
                     "last_commit": "2025-10-05T23:25:42Z",
                     "owner": "lerocha",
                     "repo": "chinook-database",
-                    "stars": 2588
+                    "stars": 2589
                   }
                 }
               ]
@@ -2142,7 +2142,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66747
+                "stars": 66755
               }
             },
             {
@@ -2157,7 +2157,7 @@
                 "last_commit": "2024-07-28T19:57:31Z",
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 40993
+                "stars": 41007
               }
             },
             {
@@ -2172,7 +2172,7 @@
                 "last_commit": "2026-02-11T22:01:53Z",
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14454
+                "stars": 14455
               }
             },
             {
@@ -2187,7 +2187,7 @@
                 "last_commit": "2021-02-12T10:55:11Z",
                 "owner": "emmabostian",
                 "repo": "design-inspiration",
-                "stars": 1194
+                "stars": 1193
               }
             }
           ],
@@ -2259,9 +2259,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:40:09.161Z",
-    "original_repository": "swyxio/spark-joy",
-    "original_repository_id": 184520105,
+    "last_updated": "2026-08-27T11:13:04.969Z",
+    "original_repository_info": {
+      "archived": true,
+      "id": 184520105,
+      "language": null,
+      "last_commit": "2026-06-03T06:46:55Z",
+      "owner": "swyxio",
+      "repo": "spark-joy",
+      "stars": 9796
+    },
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
     "enhanced_repository": "enhansome/enhansome-spark-joy",
     "enhanced_repository_description": null,
