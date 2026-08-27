@@ -863,7 +863,7 @@
                     "last_commit": "2026-04-28T09:25:21Z",
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8297
+                    "stars": 8300
                   }
                 },
                 {
@@ -1094,7 +1094,7 @@
                     "last_commit": "2026-08-25T00:08:49Z",
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25084
+                    "stars": 25086
                   }
                 }
               ]
@@ -1254,7 +1254,7 @@
                     "last_commit": "2026-07-04T13:05:35Z",
                     "owner": "peterbrittain",
                     "repo": "asciimatics",
-                    "stars": 4303
+                    "stars": 4301
                   }
                 }
               ]
@@ -1393,10 +1393,10 @@
                 "archived": false,
                 "id": 274495425,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:12:02Z",
+                "last_commit": "2026-08-27T12:05:43Z",
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57479
+                "stars": 57488
               }
             }
           ],
@@ -1900,7 +1900,7 @@
                 "last_commit": "2026-07-18T01:14:36Z",
                 "owner": "shuding",
                 "repo": "cobe",
-                "stars": 5678
+                "stars": 5679
               }
             },
             {
@@ -1975,7 +1975,7 @@
                         "last_commit": "2026-08-01T11:25:46Z",
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15636
+                        "stars": 15637
                       }
                     }
                   ],
@@ -1986,7 +1986,7 @@
                     "last_commit": "2026-08-26T19:19:56Z",
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 471355
+                    "stars": 471386
                   }
                 },
                 {
@@ -2045,7 +2045,7 @@
                     "last_commit": "2026-08-26T21:15:40Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78669
+                    "stars": 78670
                   }
                 }
               ]
@@ -2142,7 +2142,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66755
+                "stars": 66757
               }
             },
             {
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:13:04.969Z",
+    "last_updated": "2026-08-27T12:05:48.103Z",
     "original_repository_info": {
       "archived": true,
       "id": 184520105,

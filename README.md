@@ -1265,7 +1265,7 @@ other boilerplates to use
 
 * <https://github.com/edent/SuperTinyIcons> ⭐ 15,378 | 🐛 34 | 🌐 Python | 📅 2026-05-18 Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes!
 * <https://github.com/microsoft/fluentui-system-icons> ⭐ 10,792 | 🐛 211 | 🌐 HTML | 📅 2026-08-26 Fluent UI System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-* <https://github.com/Remix-Design/RemixIcon> ⭐ 8,297 | 🐛 601 | 🌐 Less | 📅 2026-04-28 neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
+* <https://github.com/Remix-Design/RemixIcon> ⭐ 8,300 | 🐛 601 | 🌐 Less | 📅 2026-04-28 neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
 * Bootstrap Icons <https://github.com/twbs/icons> ⭐ 8,110 | 🐛 482 | 🌐 TypeScript | 📅 2026-08-07, <https://icons.getbootstrap.com/>
 * <http://github.com/propublica/weepeople> ⭐ 541 | 🐛 1 | 📅 2022-08-22 A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 * <https://iconscout.com/unicons> and <https://github.com/Iconscout/react-unicons> ⭐ 346 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-01
@@ -1420,7 +1420,7 @@ further reading
 * <https://github.com/mhlabs/cfn-diagram> ⭐ 85 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-30 visualize cloudformation -> draw\.io
 * <https://gojs.net/latest/samples/decisionTree.html> interactive diagrams
 * 4 major text-to-graph langauges (Comparison <https://text-to-diagram.com/>)
-  * <https://github.com/terrastruct/d2> ⭐ 25,084 | 🐛 552 | 🌐 Go | 📅 2026-08-25
+  * <https://github.com/terrastruct/d2> ⭐ 25,086 | 🐛 552 | 🌐 Go | 📅 2026-08-25
   * mermaid <https://mermaid-js.github.io/mermaid/>
   * <https://plantuml.com/>
   * graphviz/dot - useful inside jupyter
@@ -1599,7 +1599,7 @@ from [matrix8967](\[url]\(https://news.ycombinator.com/user?id=matrix8967\)): So
   * <https://github.com/ivanceras/svgbob/> ⭐ 4,221 | 🐛 39 | 🌐 Rust | 📅 2026-04-22
   * <https://ivanceras.github.io/svgbob-editor/>
 * Here are some TUI/CLI focused frameworks. These are over kill for me - but maybe useful to someone here:
-  * <https://github.com/peterbrittain/asciimatics/> ⭐ 4,303 | 🐛 17 | 🌐 Python | 📅 2026-07-04
+  * <https://github.com/peterbrittain/asciimatics/> ⭐ 4,301 | 🐛 17 | 🌐 Python | 📅 2026-07-04
   * <https://www.textualize.io/>
   * <https://charm.sh/>
   * <http://maaslalani.com/slides/>
@@ -1707,7 +1707,7 @@ tips for product tours <https://dev.to/highlight/how-to-create-animated-product-
 
 misc
 
-* <https://github.com/remotion-dev/remotion> ⭐ 57,479 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-27 - code videos with React
+* <https://github.com/remotion-dev/remotion> ⭐ 57,488 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-27 - code videos with React
   * example usage <https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg>
 * <https://www.fable.app/academy/fable-quick-start-course-part-2-of-3> Fable motion design
 * <https://glitterly.app/> - kinda rough - mostly image maker, video features in beta
@@ -2312,7 +2312,7 @@ Welcome emails
 
 ### WebGL
 
-* <https://github.com/shuding/cobe> ⭐ 5,678 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-18 - webgl globe ([tweet](\[url]\(https://twitter.com/shuding_/status/1475916082875666441?s=20\)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20\&t=X05jU6q8ZWzymTF44CIFNQ))
+* <https://github.com/shuding/cobe> ⭐ 5,679 | 🐛 40 | 🌐 TypeScript | 📅 2026-07-18 - webgl globe ([tweet](\[url]\(https://twitter.com/shuding_/status/1475916082875666441?s=20\)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20\&t=X05jU6q8ZWzymTF44CIFNQ))
 * [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 * [Polygonjs](https://polygonjs.com/) open-source, node-based WebGL design tool, to create 3D scenes procedurally.
 
@@ -2428,8 +2428,8 @@ free or mock data apis for demos
   * <https://swapi.dev/> - theres a graphql swapi as well
   * <https://pokeapi.co/api/v2/>
 * Misc
-  * <https://github.com/public-apis/public-apis> ⭐ 471,355 | 🐛 1,788 | 🌐 Python | 📅 2026-08-26
-    * <https://github.com/public-api-lists/public-api-lists> ⭐ 15,636 | 🐛 47 | 📅 2026-08-01
+  * <https://github.com/public-apis/public-apis> ⭐ 471,386 | 🐛 1,788 | 🌐 Python | 📅 2026-08-26
+    * <https://github.com/public-api-lists/public-api-lists> ⭐ 15,637 | 🐛 48 | 📅 2026-08-01
 
   * <https://github.com/Rolstenhouse/unofficial-apis> ⭐ 2,747 | 🐛 7 | 📅 2024-05-27
 
@@ -2450,7 +2450,7 @@ free or mock data apis for demos
 ### Useful big datasets
 
 * Dataset collections
-  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 78,669 | 🐛 159 | 📅 2026-08-26
+  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 78,670 | 🐛 159 | 📅 2026-08-26
   * [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
   * [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
   * <https://www.data-is-plural.com/> dataset newsletter
@@ -2515,7 +2515,7 @@ free or mock data apis for demos
 
 ### Other Lists like this one
 
-* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 66,755 | 🐛 100 | 📅 2026-05-24
+* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 66,757 | 🐛 101 | 📅 2026-05-24
 * <https://github.com/goabstract/Awesome-Design-Tools> ⭐ 41,007 | 🐛 193 | 🌐 JavaScript | 📅 2024-07-28 / <https://github.com/LisaDziuba/Awesome-Design-Tools> ⭐ 41,007 | 🐛 193 | 🌐 JavaScript | 📅 2024-07-28
 * <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,455 | 🐛 72 | 🌐 Ruby | 📅 2026-02-11
 * <https://github.com/emmabostian/design-inspiration> ⭐ 1,193 | 🐛 10 | 📅 2021-02-12
