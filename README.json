@@ -628,7 +628,7 @@
                     "open_issues": 24,
                     "owner": "botoxparty",
                     "repo": "XP.css",
-                    "stars": 3067,
+                    "stars": 3068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -907,7 +907,7 @@
                         "open_issues": 428,
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 81959,
+                        "stars": 81960,
                         "topics": [
                           "font",
                           "ligatures",
@@ -1154,7 +1154,7 @@
                 "open_issues": 3,
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7959,
+                "stars": 7961,
                 "topics": [
                   "blend-modes",
                   "css",
@@ -1277,7 +1277,7 @@
                 "open_issues": 0,
                 "owner": "joshbuchea",
                 "repo": "HEAD",
-                "stars": 30260,
+                "stars": 30259,
                 "topics": [
                   "favicon",
                   "frontend-development",
@@ -1319,7 +1319,7 @@
                     "open_issues": 34,
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15380,
+                    "stars": 15379,
                     "topics": [
                       "hacktoberfest",
                       "logo",
@@ -1344,7 +1344,7 @@
                     "language": "HTML",
                     "license": "MIT",
                     "last_commit": "2026-08-28T20:12:02Z",
-                    "open_issues": 211,
+                    "open_issues": 212,
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
                     "stars": 10799,
@@ -1376,7 +1376,7 @@
                     "open_issues": 601,
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8302,
+                    "stars": 8301,
                     "topics": [
                       "icon",
                       "icon-font",
@@ -1748,11 +1748,11 @@
                     "id": 533087958,
                     "language": "Go",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-08-29T02:36:30Z",
+                    "last_commit": "2026-08-29T06:38:11Z",
                     "open_issues": 546,
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25094,
+                    "stars": 25096,
                     "topics": [
                       "developer-tools",
                       "diagramming",
@@ -2031,7 +2031,7 @@
                     "open_issues": 223,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48321,
+                    "stars": 48325,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -2232,7 +2232,7 @@
                 "open_issues": 173,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57642,
+                "stars": 57653,
                 "topics": [
                   "javascript",
                   "react",
@@ -2785,7 +2785,7 @@
                     "open_issues": 36,
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7810,
+                    "stars": 7811,
                     "topics": [
                       "javascript",
                       "svg",
@@ -3056,11 +3056,11 @@
                 "id": 171664300,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:46:57Z",
+                "last_commit": "2026-08-29T07:27:01Z",
                 "open_issues": 153,
                 "owner": "makepad",
                 "repo": "makepad",
-                "stars": 6583,
+                "stars": 6585,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3169,10 +3169,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T19:19:56Z",
-                    "open_issues": 1809,
+                    "open_issues": 1819,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 472417,
+                    "stars": 472505,
                     "topics": [
                       "api",
                       "apis",
@@ -3270,7 +3270,7 @@
                     "open_issues": 159,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78694,
+                    "stars": 78695,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -3425,7 +3425,7 @@
                 "open_issues": 193,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41019,
+                "stars": 41018,
                 "topics": [
                   "animations",
                   "awesome",
@@ -3588,7 +3588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:34.614Z",
+    "last_updated": "2026-08-29T07:53:47.674Z",
     "original_repository_info": {
       "archived": true,
       "description": "Archived — Spark Joy now lives on Forge.",
