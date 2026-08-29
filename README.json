@@ -19,12 +19,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "High-quality web components with a small footprint",
+                        "homepage": null,
                         "id": 169870302,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2024-09-12T08:40:46Z",
+                        "open_issues": 53,
                         "owner": "andreasbm",
                         "repo": "weightless",
-                        "stars": 380
+                        "stars": 380,
+                        "topics": [
+                          "components",
+                          "custom-elements",
+                          "elements",
+                          "lit-element",
+                          "lit-html",
+                          "lit-html-element",
+                          "ui",
+                          "ui-library",
+                          "web-components"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -49,12 +64,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of classless CSS themes/frameworks with screenshots",
+                "homepage": null,
                 "id": 179930320,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-04-03T09:53:57Z",
+                "open_issues": 5,
                 "owner": "dbohdan",
                 "repo": "classless-css",
-                "stars": 2371
+                "stars": 2371,
+                "topics": [
+                  "classless",
+                  "classless-css",
+                  "classless-theme",
+                  "css",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -65,12 +91,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nearly Classless CSS file to give html a latex-like look",
+                "homepage": "https://davidrzs.github.io/latexcss/",
                 "id": 92728442,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-04-25T21:24:03Z",
+                "open_issues": 0,
                 "owner": "davidrzs",
                 "repo": "latexcss",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "classless-theme",
+                  "css",
+                  "latex"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -81,12 +116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📐 CSS for desktops, tablets, and phones",
+                "homepage": "https://screencss.com/",
                 "id": 165434357,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-08-07T03:11:12Z",
+                "open_issues": 0,
                 "owner": "gduverger",
                 "repo": "screen",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -102,12 +142,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":cherry_blossom: a minimal css framework/theme.",
+                    "homepage": "https://oxal.org/projects/sakura",
                     "id": 62117510,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-04-07T01:47:31Z",
+                    "open_issues": 19,
                     "owner": "oxalorg",
                     "repo": "sakura",
-                    "stars": 4386
+                    "stars": 4386,
+                    "topics": [
+                      "classless",
+                      "classless-theme",
+                      "css",
+                      "css-framework",
+                      "design",
+                      "sakura",
+                      "theme",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -118,12 +172,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A classless CSS framework to write modern websites using only HTML.",
+                    "homepage": "https://newcss.net",
                     "id": 260819968,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T01:07:50Z",
+                    "open_issues": 37,
                     "owner": "xz",
                     "repo": "new.css",
-                    "stars": 4044
+                    "stars": 4044,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -134,12 +193,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of CSS styles to make simple websites look nicer",
+                    "homepage": null,
                     "id": 242254431,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-23T13:02:17Z",
+                    "open_issues": 15,
                     "owner": "alvaromontoro",
                     "repo": "almond.css",
-                    "stars": 1168
+                    "stars": 1168,
+                    "topics": [
+                      "css",
+                      "css-library",
+                      "css3",
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -150,12 +219,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple, minimal, classless stylesheet for simple HTML pages",
+                    "homepage": null,
                     "id": 317007455,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2024-01-08T11:37:14Z",
+                    "open_issues": 7,
                     "owner": "susam",
                     "repo": "spcss",
-                    "stars": 968
+                    "stars": 968,
+                    "topics": [
+                      "boilerplate",
+                      "css",
+                      "dark-color-theme",
+                      "minimalist",
+                      "stylesheet"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -166,12 +246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rapidly build efficient sites with Neat, the minimalist css framework.",
+                    "homepage": null,
                     "id": 262810353,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-02-25T13:34:09Z",
+                    "open_issues": 0,
                     "owner": "codazoda",
                     "repo": "neatcss",
-                    "stars": 739
+                    "stars": 739,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -182,12 +267,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The CSS design / framework for static HTML coders. Saner defaults for HTML elements.",
+                    "homepage": "https://elementcss.neocities.org",
                     "id": 90303192,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-29T21:30:59Z",
+                    "open_issues": 0,
                     "owner": "neocities",
                     "repo": "element",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -198,12 +288,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Classless and accessible CSS framework",
+                    "homepage": "https://fieber.hack.re",
                     "id": 535746695,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-10-16T08:08:17Z",
+                    "open_issues": 0,
                     "owner": "zichy",
                     "repo": "fieber",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "a11y",
+                      "accessibility",
+                      "accessible",
+                      "brutalism",
+                      "brutalist",
+                      "cascading-style-sheets",
+                      "classless",
+                      "classless-css",
+                      "classless-css-framework",
+                      "css",
+                      "css3",
+                      "framework",
+                      "minimalist",
+                      "opinionated",
+                      "stylesheet"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -221,12 +332,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of classless CSS themes/frameworks with screenshots",
+                    "homepage": null,
                     "id": 179930320,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-04-03T09:53:57Z",
+                    "open_issues": 5,
                     "owner": "dbohdan",
                     "repo": "classless-css",
-                    "stars": 2371
+                    "stars": 2371,
+                    "topics": [
+                      "classless",
+                      "classless-css",
+                      "classless-theme",
+                      "css",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -237,12 +359,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Drop-in switcher for previewing minimal CSS frameworks",
+                    "homepage": "https://dohliam.github.io/dropin-minimal-css",
                     "id": 61910370,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2024-07-25T21:43:47Z",
+                    "open_issues": 17,
                     "owner": "dohliam",
                     "repo": "dropin-minimal-css",
-                    "stars": 1826
+                    "stars": 1826,
+                    "topics": [
+                      "classless",
+                      "classless-css",
+                      "classless-theme",
+                      "css",
+                      "css-boilerplate",
+                      "css-framework",
+                      "css-switcher",
+                      "html",
+                      "minimal",
+                      "minimal-css",
+                      "minimal-framework",
+                      "minimalist",
+                      "ultralight"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -253,12 +394,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Test bed for simple css resets that make your static page nice without classes.",
+                    "homepage": "https://www.cssbed.com/",
                     "id": 179934391,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-04-28T06:03:14Z",
+                    "open_issues": 6,
                     "owner": "ubershmekel",
                     "repo": "cssbed",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -278,12 +424,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular CSS Library that brings the beauty of Terminal UIs to the browser",
+                "homepage": "https://webtui.ironclad.sh",
                 "id": 942928395,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-08-12T21:31:08Z",
+                "open_issues": 2,
                 "owner": "webtui",
                 "repo": "webtui",
-                "stars": 2426
+                "stars": 2426,
+                "topics": [
+                  "astro",
+                  "css",
+                  "terminal",
+                  "theme",
+                  "ui",
+                  "ui-library"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -294,12 +452,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+                "homepage": "https://nostalgic-css.github.io/NES.css/",
                 "id": 150042589,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2024-01-17T20:53:09Z",
+                "open_issues": 78,
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21821
+                "stars": 21820,
+                "topics": [
+                  "8bit",
+                  "css",
+                  "css-framework",
+                  "nes",
+                  "scss"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -310,12 +479,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text-based user interface CSS library",
+                "homepage": null,
                 "id": 148467749,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2026-06-19T14:10:54Z",
+                "open_issues": 4,
                 "owner": "vinibiavatti1",
                 "repo": "TuiCss",
-                "stars": 1968
+                "stars": 1968,
+                "topics": [
+                  "ascii",
+                  "css",
+                  "curses",
+                  "framework",
+                  "framework-css",
+                  "html5",
+                  "layout",
+                  "msdos",
+                  "ncurses",
+                  "terminal",
+                  "text-based",
+                  "tui",
+                  "turbo-vision",
+                  "window"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -326,12 +515,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 PS1 style CSS Framework, inspired by NES.css",
+                "homepage": "https://micah5.github.io/PSone.css/",
                 "id": 159831059,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-12T02:19:35Z",
+                "open_issues": 3,
                 "owner": "micah5",
                 "repo": "PSone.css",
-                "stars": 777
+                "stars": 777,
+                "topics": [
+                  "css",
+                  "css-framework",
+                  "psone"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -342,12 +540,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a Classic Mac interface in your browser",
+                "homepage": null,
                 "id": 192575037,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-04-05T03:56:35Z",
+                "open_issues": 1,
                 "owner": "npjg",
                 "repo": "classic.css",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "classic-mac-os"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -363,12 +568,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A design system for building faithful recreations of old UIs",
+                    "homepage": "https://jdan.github.io/98.css",
                     "id": 256372328,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-09-07T13:40:43Z",
+                    "open_issues": 44,
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11462
+                    "stars": 11462,
+                    "topics": [
+                      "css",
+                      "design-system",
+                      "guy-fieri",
+                      "windows98"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -379,12 +594,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A vintage 1980s DOS inspired Twitter Bootstrap theme",
+                    "homepage": "https://bootstra386.com",
                     "id": 9394642,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-12T20:06:47Z",
+                    "open_issues": 43,
                     "owner": "kristopolous",
                     "repo": "BOOTSTRA.386",
-                    "stars": 6877
+                    "stars": 6877,
+                    "topics": [
+                      "bootstrap-theme",
+                      "css",
+                      "msdos"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -395,12 +619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A CSS framework for building faithful recreations of operating system GUIs.",
+                    "homepage": "https://botoxparty.github.io/XP.css/",
                     "id": 263911790,
                     "language": "SCSS",
+                    "license": "MIT",
                     "last_commit": "2025-03-08T16:02:01Z",
+                    "open_issues": 24,
                     "owner": "botoxparty",
                     "repo": "XP.css",
-                    "stars": 3067
+                    "stars": 3067,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -411,12 +640,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A CSS framework based on Human Guidelines from apple",
+                    "homepage": "https://codedgar.github.io/Puppertino/",
                     "id": 222181584,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T15:09:23Z",
+                    "open_issues": 9,
                     "owner": "codedgar",
                     "repo": "Puppertino",
-                    "stars": 1155
+                    "stars": 1155,
+                    "topics": [
+                      "css",
+                      "css-framework",
+                      "human-guidelines",
+                      "macos",
+                      "modular"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -436,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start your project with a remedy for the technical debt of CSS. ",
+                "homepage": null,
                 "id": 165123638,
                 "language": "CSS",
+                "license": "MPL-2.0",
                 "last_commit": "2022-07-07T22:11:37Z",
+                "open_issues": 37,
                 "owner": "jensimmons",
                 "repo": "cssremedy",
-                "stars": 2224
+                "stars": 2224,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -452,12 +697,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal CSS reset in less than 500 bytes",
+                "homepage": null,
                 "id": 90532179,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-03-06T17:32:03Z",
+                "open_issues": 0,
                 "owner": "tiaanduplessis",
                 "repo": "nanoreset",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "css",
+                  "nano",
+                  "reset"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -468,12 +722,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base CSS endorsing semantic HTML and design token usage",
+                "homepage": null,
                 "id": 288424240,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-10-25T20:37:21Z",
+                "open_issues": 0,
                 "owner": "kripod",
                 "repo": "css-homogenizer",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "css",
+                  "css-reset",
+                  "normalize-css"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -489,12 +752,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🐒 Normalize browsers' default style",
+                    "homepage": null,
                     "id": 120715537,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-25T12:14:32Z",
+                    "open_issues": 28,
                     "owner": "sindresorhus",
                     "repo": "modern-normalize",
-                    "stars": 7390
+                    "stars": 7391,
+                    "topics": [
+                      "css",
+                      "css-library",
+                      "css-reset",
+                      "normalize",
+                      "normalize-css",
+                      "npm-package"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -514,12 +789,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS stylesheet to quickly highlight a11y concerns.",
+                "homepage": "http://checka11y.jackdomleo.dev/",
                 "id": 297905776,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-10-20T21:10:57Z",
+                "open_issues": 1,
                 "owner": "jackdomleo7",
                 "repo": "Checka11y.css",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "a11y",
+                  "a11y-testing",
+                  "accessibility",
+                  "hacktoberfest",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -530,12 +816,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small set of global rules to make things accessible and reset default styling",
+                "homepage": null,
                 "id": 192977849,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-07-20T09:01:29Z",
+                "open_issues": 0,
                 "owner": "mike-engel",
                 "repo": "a11y-css-reset",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "css",
+                  "reset",
+                  "reset-css"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -553,12 +850,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Tails composer package for Laravel. Easily fetch designs in your Laravel application that you design inside of the Tails Site/Page Builder.",
+                "homepage": "https://devdojo.com/tails",
                 "id": 513996482,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-04T00:40:34Z",
+                "open_issues": 2,
                 "owner": "thedevdojo",
                 "repo": "tails",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "api",
+                  "pagebuilder",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -592,12 +898,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Free monospaced font with programming ligatures",
+                        "homepage": null,
                         "id": 26500787,
                         "language": "Clojure",
+                        "license": "OFL-1.1",
                         "last_commit": "2026-07-28T17:02:16Z",
+                        "open_issues": 428,
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 81957
+                        "stars": 81959,
+                        "topics": [
+                          "font",
+                          "ligatures",
+                          "programming-ligatures"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -606,12 +921,21 @@
               ],
               "repo_info": {
                 "archived": true,
+                "description": "Archived — Spark Joy now lives on Forge.",
+                "homepage": "https://forge.smol.ai/swyx/spark-joy",
                 "id": 184520105,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-03T06:46:55Z",
+                "open_issues": 22,
                 "owner": "swyxio",
                 "repo": "spark-joy",
-                "stars": 9795
+                "stars": 9795,
+                "topics": [
+                  "awesome-list",
+                  "css",
+                  "design"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -624,12 +948,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bunch of demos for different web font loading strategies. Companion to https://www.zachleat.com/web/comprehensive-webfonts/",
+                    "homepage": "https://www.zachleat.com/web/recipes/",
                     "id": 107342634,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2022-01-26T12:52:04Z",
+                    "open_issues": 3,
                     "owner": "zachleat",
                     "repo": "web-font-loading-recipes",
-                    "stars": 1062
+                    "stars": 1062,
+                    "topics": [
+                      "demo",
+                      "font",
+                      "font-face",
+                      "web-fonts"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -656,12 +990,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A best-practices CSS foundation",
+            "homepage": "https://csstools.github.io/sanitize.css",
             "id": 6566489,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-26T11:31:36Z",
+            "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5302
+            "stars": 5302,
+            "topics": [
+              "css",
+              "normalization",
+              "opinionated"
+            ]
           },
           "first_seen": "2026-08-28T12:48:20.685Z"
         }
@@ -680,12 +1023,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large list of handpicked color names 🌈",
+                "homepage": "https://meodai.github.io/color-names/",
                 "id": 89168390,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:59:18Z",
+                "open_issues": 4,
                 "owner": "meodai",
                 "repo": "color-names",
-                "stars": 2983
+                "stars": 2983,
+                "topics": [
+                  "color",
+                  "colors",
+                  "colour",
+                  "colours",
+                  "dataset",
+                  "dictionary",
+                  "naming",
+                  "palette",
+                  "rgb-color"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -708,12 +1066,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sequential, diverging and categorical color scales.",
+                    "homepage": "https://d3js.org/d3-scale-chromatic",
                     "id": 60423088,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-16T22:57:03Z",
+                    "open_issues": 8,
                     "owner": "d3",
                     "repo": "d3-scale-chromatic",
-                    "stars": 818
+                    "stars": 818,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -741,12 +1104,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CSS only library to fill empty background with beautiful patterns.",
+                    "homepage": "https://bansal.io/pattern-css",
                     "id": 256725670,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2022-03-26T13:15:42Z",
+                    "open_issues": 18,
                     "owner": "bansal",
                     "repo": "pattern.css",
-                    "stars": 3931
+                    "stars": 3930,
+                    "topics": [
+                      "bootstrap",
+                      "css",
+                      "css-framework",
+                      "css3",
+                      "frontend",
+                      "patterns",
+                      "ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -769,12 +1145,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
+                "homepage": "https://poke-holo.simey.me/",
                 "id": 505538251,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-15T06:30:06Z",
+                "open_issues": 3,
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 7957
+                "stars": 7959,
+                "topics": [
+                  "blend-modes",
+                  "css",
+                  "filter",
+                  "gradient",
+                  "holo",
+                  "holographic",
+                  "pokemon",
+                  "svelte",
+                  "sveltejs",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -790,12 +1182,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.",
+                    "homepage": "https://img.ly/showcases/cesdk/web/background-removal/web",
                     "id": 657577902,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-07-18T12:56:39Z",
+                    "open_issues": 35,
                     "owner": "imgly",
                     "repo": "background-removal-js",
-                    "stars": 7287
+                    "stars": 7289,
+                    "topics": [
+                      "background-removal",
+                      "image-matting",
+                      "image-segmentation",
+                      "javascript",
+                      "onnx",
+                      "open-source",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -811,12 +1216,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+                        "homepage": "https://backgroundremoverai.com",
                         "id": 370209029,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-10T01:20:32Z",
+                        "open_issues": 2,
                         "owner": "nadermx",
                         "repo": "backgroundremover",
-                        "stars": 8019
+                        "stars": 8021,
+                        "topics": [
+                          "ai",
+                          "background-removal",
+                          "background-remover",
+                          "backgroundremover",
+                          "photo-editing",
+                          "python",
+                          "pytorch",
+                          "remove-background",
+                          "remove-background-image",
+                          "remove-background-video",
+                          "removebackground",
+                          "video",
+                          "video-editing"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -844,12 +1268,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple guide to HTML <head> elements",
+                "homepage": "https://htmlhead.dev",
                 "id": 56717493,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-28T02:33:42Z",
+                "open_issues": 0,
                 "owner": "joshbuchea",
                 "repo": "HEAD",
-                "stars": 30262
+                "stars": 30260,
+                "topics": [
+                  "favicon",
+                  "frontend-development",
+                  "head",
+                  "html",
+                  "html5",
+                  "list",
+                  "meta-tags",
+                  "reference",
+                  "seo",
+                  "twitter-cards",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -869,12 +1310,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+                    "homepage": "https://edent.github.io/SuperTinyIcons/",
                     "id": 88214511,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-18T06:50:14Z",
+                    "open_issues": 34,
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15378
+                    "stars": 15380,
+                    "topics": [
+                      "hacktoberfest",
+                      "logo",
+                      "social-media",
+                      "svg",
+                      "svg-icons",
+                      "tiny-social-icons"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -885,12 +1338,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+                    "homepage": "https://aka.ms/fluentui-system-icons",
                     "id": 263452252,
                     "language": "HTML",
-                    "last_commit": "2026-08-27T17:02:24Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T20:12:02Z",
+                    "open_issues": 211,
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
-                    "stars": 10797
+                    "stars": 10799,
+                    "topics": [
+                      "android",
+                      "design",
+                      "fluent",
+                      "flutter",
+                      "icons",
+                      "ios",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -901,12 +1367,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source neutral style icon system",
+                    "homepage": "https://remixicon.com",
                     "id": 161979323,
                     "language": "Less",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-28T09:25:21Z",
+                    "open_issues": 601,
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8302
+                    "stars": 8302,
+                    "topics": [
+                      "icon",
+                      "icon-font",
+                      "icon-pack",
+                      "svg"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -917,12 +1393,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official open source SVG icon library for Bootstrap.",
+                    "homepage": "https://icons.getbootstrap.com",
                     "id": 198878888,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-07T13:25:21Z",
+                    "open_issues": 482,
                     "owner": "twbs",
                     "repo": "icons",
-                    "stars": 8112
+                    "stars": 8114,
+                    "topics": [
+                      "bootstrap",
+                      "font",
+                      "icons",
+                      "sprite",
+                      "svg",
+                      "woff",
+                      "woff2"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -933,12 +1422,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.",
+                    "homepage": null,
                     "id": 21256457,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-08-22T16:19:24Z",
+                    "open_issues": 1,
                     "owner": "propublica",
                     "repo": "weepeople",
-                    "stars": 541
+                    "stars": 541,
+                    "topics": [
+                      "font",
+                      "people",
+                      "silhouette"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -949,12 +1447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "1000+ vector icons as easy to use React Components",
+                    "homepage": "https://iconscout.com/unicons",
                     "id": 195657876,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-01T11:21:38Z",
+                    "open_issues": 6,
                     "owner": "Iconscout",
                     "repo": "react-unicons",
-                    "stars": 346
+                    "stars": 346,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -970,12 +1473,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!",
+                        "homepage": "https://iconify.design/",
                         "id": 82819844,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-08-28T07:52:21Z",
+                        "open_issues": 22,
                         "owner": "iconify",
                         "repo": "iconify",
-                        "stars": 6280
+                        "stars": 6280,
+                        "topics": [
+                          "emoji",
+                          "glyph-fonts",
+                          "icons",
+                          "svg",
+                          "svg-framework",
+                          "vector-icons"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -993,12 +1508,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons",
+                        "homepage": "http://iconpark.bytedance.com/",
                         "id": 282828123,
                         "language": "TypeScript",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-02-24T07:46:02Z",
+                        "open_issues": 799,
                         "owner": "bytedance",
                         "repo": "IconPark",
-                        "stars": 9061
+                        "stars": 9061,
+                        "topics": [
+                          "fill",
+                          "icon",
+                          "icon-components",
+                          "icons",
+                          "multiple-themes",
+                          "stroke",
+                          "svg",
+                          "svg-icon",
+                          "vue-component",
+                          "vue-next",
+                          "vue3"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     },
@@ -1009,12 +1541,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Cute SVG React Components",
+                        "homepage": "https://react-kawaii.vercel.app/",
                         "id": 79716577,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2025-09-28T16:17:16Z",
+                        "open_issues": 13,
                         "owner": "elizabetdev",
                         "repo": "react-kawaii",
-                        "stars": 2952
+                        "stars": 2953,
+                        "topics": [
+                          "components",
+                          "cute",
+                          "design",
+                          "icons",
+                          "illustration",
+                          "kawaii",
+                          "react-component",
+                          "svg",
+                          "svg-icons",
+                          "svg-illustrations"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     },
@@ -1025,12 +1573,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "React-useanimations is a collection of free animated open source icons for React.js.",
+                        "homepage": "http://react.useanimations.com",
                         "id": 212309840,
                         "language": "TypeScript",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-06-12T18:03:38Z",
+                        "open_issues": 11,
                         "owner": "useAnimations",
                         "repo": "react-useanimations",
-                        "stars": 1243
+                        "stars": 1243,
+                        "topics": [
+                          "animation",
+                          "lottie",
+                          "lottie-animation",
+                          "micro-animations",
+                          "micro-interactions",
+                          "react"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     },
@@ -1041,12 +1601,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "svg react icons of popular icon packs",
+                        "homepage": null,
                         "id": 283078731,
                         "language": "TypeScript",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-04-21T05:10:57Z",
+                        "open_issues": 8,
                         "owner": "meronex",
                         "repo": "meronex-icons",
-                        "stars": 49
+                        "stars": 49,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -1077,12 +1642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database Markup Language (DBML), designed to define and document database structures",
+                "homepage": "https://dbml.org",
                 "id": 177372680,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T05:50:08Z",
+                "open_issues": 94,
                 "owner": "holistics",
                 "repo": "dbml",
-                "stars": 3679
+                "stars": 3679,
+                "topics": [
+                  "database-schema",
+                  "dbml",
+                  "dbx"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1100,12 +1674,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Courses, sample code, articles & screencasts - AWS, Azure, & GCP",
+                "homepage": "https://www.linkedin.com/learning/instructors/lynn-langit",
                 "id": 282442201,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-26T02:03:26Z",
+                "open_issues": 0,
                 "owner": "lynnlangit",
                 "repo": "learning-cloud",
-                "stars": 698
+                "stars": 698,
+                "topics": [
+                  "aws",
+                  "aws-cloud",
+                  "azure",
+                  "cloud",
+                  "cloud-architecture",
+                  "cloudcomputing",
+                  "gcp",
+                  "genai",
+                  "google-cloud-platform",
+                  "googlecloud",
+                  "ibm-cloud",
+                  "microsoft-azure",
+                  "quantum-computing",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1123,12 +1717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool to visualise CloudFormation/SAM/CDK stacks as visjs networks, draw.io or ascii-art diagrams. ",
+                "homepage": null,
                 "id": 580731691,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-30T13:16:18Z",
+                "open_issues": 0,
                 "owner": "mhlabs",
                 "repo": "cfn-diagram",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1144,12 +1743,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+                    "homepage": "https://d2lang.com",
                     "id": 533087958,
                     "language": "Go",
-                    "last_commit": "2026-08-28T04:26:42Z",
+                    "license": "MPL-2.0",
+                    "last_commit": "2026-08-29T02:36:30Z",
+                    "open_issues": 546,
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25092
+                    "stars": 25094,
+                    "topics": [
+                      "developer-tools",
+                      "diagramming",
+                      "diagrams",
+                      "go",
+                      "golang",
+                      "software-architecture",
+                      "text-to-diagram"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1175,12 +1787,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on ",
+                "homepage": null,
                 "id": 200847230,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-08-06T12:37:54Z",
+                "open_issues": 1,
                 "owner": "MariaLetta",
                 "repo": "mega-doodles-pack",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "blog",
+                  "clipart",
+                  "doodle",
+                  "doodles",
+                  "free",
+                  "icons",
+                  "illustrations",
+                  "images",
+                  "pictures",
+                  "png",
+                  "presentations",
+                  "social-media",
+                  "svg",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1198,12 +1830,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create beautiful SVG renderings of ASCII diagrams.",
+                "homepage": "https://github.com/asciitosvg/asciitosvg",
                 "id": 38574718,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-11-26T18:04:16Z",
+                "open_issues": 9,
                 "owner": "asciitosvg",
                 "repo": "asciitosvg",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "ascii-art",
+                  "asciitosvg",
+                  "beautiful-svg-diagrams",
+                  "diagrams",
+                  "markdown-extension",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1226,12 +1870,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!",
+                    "homepage": "https://ozh.github.io/ascii-tables/",
                     "id": 16077895,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-07T21:15:35Z",
+                    "open_issues": 0,
                     "owner": "ozh",
                     "repo": "ascii-tables",
-                    "stars": 648
+                    "stars": 648,
+                    "topics": [
+                      "ascii",
+                      "ascii-table",
+                      "formatting",
+                      "markdown",
+                      "table"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1249,12 +1904,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "netpen",
+                    "homepage": "https://www.netpen.io",
                     "id": 345058152,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T16:12:37Z",
+                    "open_issues": 0,
                     "owner": "ebirger",
                     "repo": "netpen",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1272,12 +1932,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Share terminal sessions via SVG and CSS",
+                    "homepage": null,
                     "id": 112016784,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-01T23:04:21Z",
+                    "open_issues": 48,
                     "owner": "marionebl",
                     "repo": "svg-term-cli",
-                    "stars": 4244
+                    "stars": 4244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1288,12 +1953,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert your ascii diagram scribbles into happy little SVG",
+                    "homepage": "http://ivanceras.github.io/svgbob-editor/",
                     "id": 70382294,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-22T23:09:36Z",
+                    "open_issues": 39,
                     "owner": "ivanceras",
                     "repo": "svgbob",
-                    "stars": 4222
+                    "stars": 4222,
+                    "topics": [
+                      "ascii",
+                      "bob",
+                      "diagram",
+                      "svg"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1311,12 +1986,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations",
+                    "homepage": null,
                     "id": 34016445,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-04T13:05:35Z",
+                    "open_issues": 17,
                     "owner": "peterbrittain",
                     "repo": "asciimatics",
-                    "stars": 4302
+                    "stars": 4302,
+                    "topics": [
+                      "ascii-art",
+                      "console",
+                      "cross-platform",
+                      "curses",
+                      "python",
+                      "terminal",
+                      "tui"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1334,12 +2022,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Presentation Slides for Developers",
+                    "homepage": "https://sli.dev",
                     "id": 361044034,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T00:42:02Z",
+                    "open_issues": 223,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48317
+                    "stars": 48321,
+                    "topics": [
+                      "markdown",
+                      "presentation",
+                      "slides",
+                      "vite",
+                      "vue",
+                      "vueuse"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1350,12 +2050,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terminal based presentation tool",
+                    "homepage": "http://maaslalani.com/slides/",
                     "id": 364729022,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-07-08T18:44:50Z",
+                    "open_issues": 77,
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11633
+                    "stars": 11637,
+                    "topics": [
+                      "markdown",
+                      "presentation",
+                      "slides",
+                      "terminal"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1366,12 +2076,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An interactive, terminal-based markdown presenter",
+                    "homepage": "https://lookatme.readthedocs.io/en/latest/",
                     "id": 224748938,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-02T20:22:15Z",
+                    "open_issues": 38,
                     "owner": "d0c-s4vage",
                     "repo": "lookatme",
-                    "stars": 2328
+                    "stars": 2328,
+                    "topics": [
+                      "ansii",
+                      "command-line",
+                      "markdown",
+                      "markdown-slides",
+                      "markdown-viewer",
+                      "python",
+                      "slides",
+                      "terminal",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1382,12 +2107,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bring charts to terminal.",
+                    "homepage": "https://www.chunqiuyiyu.com/ervy/",
                     "id": 153882292,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-08-27T11:51:00Z",
+                    "open_issues": 3,
                     "owner": "chunqiuyiyu",
                     "repo": "ervy",
-                    "stars": 1605
+                    "stars": 1605,
+                    "topics": [
+                      "ascii",
+                      "blog",
+                      "chart",
+                      "cli",
+                      "console",
+                      "data-visualization",
+                      "terminal"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1405,12 +2143,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Text-based UI tool for configuring the WTF terminal dashboard",
+                    "homepage": null,
                     "id": 247481846,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2020-11-29T11:43:30Z",
+                    "open_issues": 0,
                     "owner": "ggerganov",
                     "repo": "wtf-tui",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1435,12 +2178,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":city_sunrise: A collection of links for free stock photography, video and Illustration websites",
+                    "homepage": null,
                     "id": 45307548,
                     "language": "Ruby",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-02-11T22:01:53Z",
+                    "open_issues": 72,
                     "owner": "neutraltone",
                     "repo": "awesome-stock-resources",
-                    "stars": 14458
+                    "stars": 14460,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "font",
+                      "free-photos",
+                      "icon-font",
+                      "icons",
+                      "list",
+                      "music",
+                      "patterns",
+                      "stock-photography",
+                      "stock-photos",
+                      "stock-videos",
+                      "templates",
+                      "weather-icons"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1460,12 +2223,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎥      Make videos programmatically with React",
+                "homepage": "https://remotion.dev",
                 "id": 274495425,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T12:46:29Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:12:05Z",
+                "open_issues": 173,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57595
+                "stars": 57642,
+                "topics": [
+                  "javascript",
+                  "react",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1483,12 +2255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom element to show the stippled version of image",
+                "homepage": null,
                 "id": 261951828,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-05-20T05:59:28Z",
+                "open_issues": 0,
                 "owner": "pshihn",
                 "repo": "stippled-image",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1504,12 +2281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generates a beautiful representation of any hash.",
+                    "homepage": null,
                     "id": 151736454,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-02-08T02:50:59Z",
+                    "open_issues": 4,
                     "owner": "emeraldpay",
                     "repo": "hashicon",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1533,12 +2315,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for SvelteKit 1.0!",
+            "homepage": "https://swyxkit.netlify.app/",
             "id": 361526956,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2025-09-22T12:38:56Z",
+            "open_issues": 27,
             "owner": "swyxio",
             "repo": "swyxkit",
-            "stars": 710
+            "stars": 710,
+            "topics": [
+              "hacktoberfest",
+              "netlify",
+              "svelte",
+              "sveltekit",
+              "sveltekit-tailwindcss",
+              "sveltekit-template",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T12:48:20.685Z"
         },
@@ -1551,12 +2346,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Friendlier HTML form controls with a little CSS magic. ",
+                "homepage": "http://wtfforms.com",
                 "id": 19681341,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2020-09-28T05:00:37Z",
+                "open_issues": 18,
                 "owner": "mdo",
                 "repo": "wtf-forms",
-                "stars": 2672
+                "stars": 2672,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1567,12 +2367,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various styled accessible form controls",
+                "homepage": "https://scottaohara.github.io/a11y_styled_form_controls/",
                 "id": 111816563,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-03-09T20:07:32Z",
+                "open_issues": 17,
                 "owner": "scottaohara",
                 "repo": "a11y_styled_form_controls",
-                "stars": 471
+                "stars": 471,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "forms",
+                  "inputs"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1590,12 +2400,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
+                "homepage": null,
                 "id": 6121126,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-11T14:59:29Z",
+                "open_issues": 322,
                 "owner": "Pikaday",
                 "repo": "Pikaday",
-                "stars": 8085
+                "stars": 8085,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1613,12 +2428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typeface for creating sparklines in text without code.",
+                "homepage": null,
                 "id": 100490124,
                 "language": "CSS",
+                "license": "OFL-1.1",
                 "last_commit": "2023-09-21T23:26:10Z",
+                "open_issues": 9,
                 "owner": "aftertheflood",
                 "repo": "sparks",
-                "stars": 2397
+                "stars": 2397,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1636,12 +2456,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by",
+                "homepage": "https://cruip.com/",
                 "id": 359729337,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-03-02T15:55:04Z",
+                "open_issues": 3,
                 "owner": "cruip",
                 "repo": "tailwind-dashboard-template",
-                "stars": 2836
+                "stars": 2836,
+                "topics": [
+                  "admin-dashboard",
+                  "analytics-dashboard",
+                  "chartjs",
+                  "dashboard",
+                  "dashboard-templates",
+                  "dashboards",
+                  "flatpickr",
+                  "react",
+                  "reactjs",
+                  "tailwind",
+                  "tailwind-css",
+                  "tailwindcss",
+                  "templates",
+                  "vite",
+                  "vitejs"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1659,12 +2500,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sketchy Theme UI Preset ",
+                "homepage": "https://themeui-sketchy.netlify.app/",
                 "id": 259379493,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T20:57:07Z",
+                "open_issues": 11,
                 "owner": "beerose",
                 "repo": "theme-ui-sketchy",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1680,12 +2528,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of loading spinner components for react",
+                    "homepage": "https://www.davidhu.io/react-spinners",
                     "id": 96266792,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T04:11:08Z",
+                    "open_issues": 23,
                     "owner": "davidhu2000",
                     "repo": "react-spinners",
-                    "stars": 3353
+                    "stars": 3353,
+                    "topics": [
+                      "component",
+                      "loader",
+                      "loading",
+                      "loading-spinners",
+                      "progressbar",
+                      "react",
+                      "react-component",
+                      "react-spinners",
+                      "reactjs",
+                      "spinners"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1696,12 +2560,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight SVG/CSS spinners for React",
+                    "homepage": "https://adexin.github.io/spinners/",
                     "id": 240014786,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-07T08:39:12Z",
+                    "open_issues": 5,
                     "owner": "adexin",
                     "repo": "spinners-react",
-                    "stars": 449
+                    "stars": 449,
+                    "topics": [
+                      "css",
+                      "loader",
+                      "loaders",
+                      "loading",
+                      "loading-spinner",
+                      "loading-spinners",
+                      "progress",
+                      "react",
+                      "react-components",
+                      "react-spinner",
+                      "react-spinners",
+                      "reactjs",
+                      "spinner",
+                      "spinner-react",
+                      "spinners",
+                      "spinners-react",
+                      "svg"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1712,12 +2599,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Amazing collection of React spinners components with pure css",
+                    "homepage": "https://bit.cloud/joshk/react-spinners-css",
                     "id": 205101803,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-03-26T21:42:09Z",
+                    "open_issues": 0,
                     "owner": "JoshK2",
                     "repo": "react-spinners-css",
-                    "stars": 335
+                    "stars": 335,
+                    "topics": [
+                      "animation",
+                      "animations",
+                      "css",
+                      "css-spinners",
+                      "loaders",
+                      "progress",
+                      "react",
+                      "react-spinners",
+                      "spinners"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1728,12 +2630,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Amazing collection of React spinners components with pure css",
+                    "homepage": "https://bit.cloud/joshk/react-spinners-css",
                     "id": 205101803,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2025-03-26T21:42:09Z",
+                    "open_issues": 0,
                     "owner": "JoshK2",
                     "repo": "react-spinners-css",
-                    "stars": 335
+                    "stars": 335,
+                    "topics": [
+                      "animation",
+                      "animations",
+                      "css",
+                      "css-spinners",
+                      "loaders",
+                      "progress",
+                      "react",
+                      "react-spinners",
+                      "spinners"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -1744,12 +2661,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome spinners for React 👋 ⚛ Built with styled-components  💅",
+                    "homepage": "https://tienpham94.github.io/react-awesome-spinners",
                     "id": 184599384,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-03T20:54:21Z",
+                    "open_issues": 50,
                     "owner": "tienpham94",
                     "repo": "react-awesome-spinners",
-                    "stars": 245
+                    "stars": 245,
+                    "topics": [
+                      "animation",
+                      "loading",
+                      "react",
+                      "spinners",
+                      "styled-components"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1769,12 +2697,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package containing a few micro-interactions you can use to reward your users for little things and make them smile!",
+                "homepage": "https://github.com/thedevelobear/react-rewards",
                 "id": 157291522,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-30T18:11:56Z",
+                "open_issues": 3,
                 "owner": "thedevelobear",
                 "repo": "react-rewards",
-                "stars": 1674
+                "stars": 1674,
+                "topics": [
+                  "balloons",
+                  "confetti",
+                  "emoji",
+                  "front-end",
+                  "micro-interactions",
+                  "react",
+                  "react-components",
+                  "reactjs",
+                  "rewards",
+                  "user-experience",
+                  "ux"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1803,12 +2748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A very compact representation of a placeholder for an image.",
+                    "homepage": "https://blurha.sh",
                     "id": 193885464,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-07-08T22:23:42Z",
+                    "open_issues": 49,
                     "owner": "woltapp",
                     "repo": "blurhash",
-                    "stars": 17070
+                    "stars": 17071,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1826,12 +2776,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Powerful SVG-Editor for your browser",
+                    "homepage": null,
                     "id": 21611548,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-05T17:53:30Z",
+                    "open_issues": 36,
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7810
+                    "stars": 7810,
+                    "topics": [
+                      "javascript",
+                      "svg",
+                      "svg-edit",
+                      "svg-editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -1855,12 +2815,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The motion graphics toolbelt for the web",
+            "homepage": "https://mojs.github.io",
             "id": 21234201,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T16:54:33Z",
+            "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18756
+            "stars": 18758,
+            "topics": [
+              "animation",
+              "burst",
+              "design",
+              "es6",
+              "graphics",
+              "javascript",
+              "library",
+              "mo-js",
+              "modern",
+              "mojs",
+              "motion",
+              "motion-graphics",
+              "shape",
+              "svg",
+              "swirl",
+              "timeline",
+              "toolbelt",
+              "web",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T12:48:20.685Z"
         },
@@ -1871,12 +2856,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Versatile and extensible page transition library for server-rendered websites 🎉",
+            "homepage": "https://swup.js.org",
             "id": 106345099,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T08:16:06Z",
+            "open_issues": 3,
             "owner": "swup",
             "repo": "swup",
-            "stars": 5222
+            "stars": 5222,
+            "topics": [
+              "animation",
+              "javascript",
+              "page-transitions",
+              "router",
+              "transition",
+              "view-transitions"
+            ]
           },
           "first_seen": "2026-08-28T12:48:20.685Z"
         },
@@ -1887,12 +2884,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight magic-move library for configurable layout transitions",
+            "homepage": null,
             "id": 137294926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-28T01:34:48Z",
+            "open_issues": 60,
             "owner": "aholachek",
             "repo": "react-flip-toolkit",
-            "stars": 4185
+            "stars": 4185,
+            "topics": [
+              "animation-library",
+              "flip-animations",
+              "layout-animation",
+              "reactjs",
+              "scale-animation"
+            ]
           },
           "first_seen": "2026-08-28T12:48:20.685Z"
         },
@@ -1905,12 +2913,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazing collection of React spinners components with pure css",
+                "homepage": "https://bit.cloud/joshk/react-spinners-css",
                 "id": 205101803,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-03-26T21:42:09Z",
+                "open_issues": 0,
                 "owner": "JoshK2",
                 "repo": "react-spinners-css",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "animation",
+                  "animations",
+                  "css",
+                  "css-spinners",
+                  "loaders",
+                  "progress",
+                  "react",
+                  "react-spinners",
+                  "spinners"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1928,12 +2951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Morphing Ui transitions made simple",
+                "homepage": "https://brunnolou.github.io/react-morph",
                 "id": 121180950,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-20T22:13:18Z",
+                "open_issues": 27,
                 "owner": "brunnolou",
                 "repo": "react-morph",
-                "stars": 2547
+                "stars": 2547,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1944,12 +2972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of React components for animating elements as they scroll into the viewport",
+                "homepage": "https://codesandbox.io/s/react-genie-example-8xfsc",
                 "id": 100491718,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T09:55:36Z",
+                "open_issues": 34,
                 "owner": "kitze",
                 "repo": "react-genie",
-                "stars": 742
+                "stars": 742,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -1960,12 +2993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Many single page web applications don't use transitions for their different routes. This React Transitions library hopes to change that.",
+                "homepage": "http://www.joerezendes.com/projects/react-transitions",
                 "id": 154893489,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T12:46:17Z",
+                "open_issues": 9,
                 "owner": "joerez",
                 "repo": "react-transitions",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -1989,12 +3027,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "5KB WebGL globe lib.",
+                "homepage": "https://cobe.vercel.app",
                 "id": 429536908,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T01:14:36Z",
+                "open_issues": 40,
                 "owner": "shuding",
                 "repo": "cobe",
-                "stars": 5680
+                "stars": 5680,
+                "topics": [
+                  "globe",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -2005,12 +3051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",
+                "homepage": "http://makepad.dev/",
                 "id": 171664300,
                 "language": "Rust",
-                "last_commit": "2026-08-28T07:51:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:46:57Z",
+                "open_issues": 153,
                 "owner": "makepad",
                 "repo": "makepad",
-                "stars": 6580
+                "stars": 6583,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -2039,12 +3090,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":city_sunrise: Client-side image placeholders.",
+                    "homepage": "http://holderjs.com",
                     "id": 4641606,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-10-07T03:19:47Z",
+                    "open_issues": 31,
                     "owner": "imsky",
                     "repo": "holder",
-                    "stars": 5798
+                    "stars": 5798,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2067,24 +3125,69 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+                        "homepage": "https://public-api-lists.github.io/public-api-lists/",
                         "id": 231972503,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2026-08-01T11:25:46Z",
+                        "open_issues": 50,
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15652
+                        "stars": 15659,
+                        "topics": [
+                          "api",
+                          "api-list",
+                          "apis",
+                          "awesome",
+                          "awesome-list",
+                          "beginner-friendly",
+                          "collection",
+                          "curated-list",
+                          "developer-resources",
+                          "developer-tools",
+                          "free-api",
+                          "hacktoberfest",
+                          "json-api",
+                          "list",
+                          "open-data",
+                          "open-source",
+                          "public-api",
+                          "public-apis",
+                          "resource",
+                          "rest-api"
+                        ]
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collective list of free APIs",
+                    "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                     "id": 54346799,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T19:19:56Z",
+                    "open_issues": 1809,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 472049
+                    "stars": 472417,
+                    "topics": [
+                      "api",
+                      "apis",
+                      "dataset",
+                      "development",
+                      "free",
+                      "list",
+                      "lists",
+                      "open-source",
+                      "public",
+                      "public-api",
+                      "public-apis",
+                      "resources",
+                      "software"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -2095,12 +3198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of unofficial apis. Designed to inspire your next Friday night hack",
+                    "homepage": null,
                     "id": 260608287,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-27T18:59:32Z",
+                    "open_issues": 7,
                     "owner": "Rolstenhouse",
                     "repo": "unofficial-apis",
-                    "stars": 2747
+                    "stars": 2747,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -2111,12 +3219,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Creates a Simulation of Fake Web Events",
+                    "homepage": null,
                     "id": 273978312,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-13T17:33:42Z",
+                    "open_issues": 4,
                     "owner": "andresionek91",
                     "repo": "fake-web-events",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "event-stream",
+                      "fake-users",
+                      "faker",
+                      "faker-generator",
+                      "poc",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2141,12 +3261,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A topic-centric list of HQ open datasets.",
+                    "homepage": "https://awesomedataworld.slack.com",
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-27T22:41:18Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T16:22:22Z",
+                    "open_issues": 159,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78688
+                    "stars": 78694,
+                    "topics": [
+                      "aaron-swartz",
+                      "awesome-public-datasets",
+                      "datasets",
+                      "opendata"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2164,12 +3294,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+                    "homepage": null,
                     "id": 26098045,
                     "language": "TSQL",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-05T23:25:42Z",
+                    "open_issues": 8,
                     "owner": "lerocha",
                     "repo": "chinook-database",
-                    "stars": 2590
+                    "stars": 2590,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2192,12 +3327,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 417250991,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-02-15T11:52:25Z",
+                        "open_issues": 16,
                         "owner": "databricks",
                         "repo": "docker-spark-iceberg",
-                        "stars": 384
+                        "stars": 384,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
                     }
@@ -2217,12 +3357,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset of images of trash; Torch-based CNN for garbage image classification",
+                    "homepage": null,
                     "id": 87667522,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2023-06-02T03:39:01Z",
+                    "open_issues": 9,
                     "owner": "garythung",
                     "repo": "trashnet",
-                    "stars": 710
+                    "stars": 710,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "dataset",
+                      "deep-learning",
+                      "garbage",
+                      "image-classification",
+                      "torch",
+                      "trash"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2242,12 +3395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+                "homepage": null,
                 "id": 261787758,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-24T10:07:48Z",
+                "open_issues": 103,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66767
+                "stars": 66770,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -2258,12 +3416,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best design tools and plugins for everything 👉",
+                "homepage": null,
                 "id": 170326929,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-28T19:57:31Z",
+                "open_issues": 193,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41017
+                "stars": 41019,
+                "topics": [
+                  "animations",
+                  "awesome",
+                  "awesome-list",
+                  "design",
+                  "design-systems",
+                  "design-tools",
+                  "font-awesome",
+                  "ui-design"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -2274,12 +3446,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":city_sunrise: A collection of links for free stock photography, video and Illustration websites",
+                "homepage": null,
                 "id": 45307548,
                 "language": "Ruby",
+                "license": "CC0-1.0",
                 "last_commit": "2026-02-11T22:01:53Z",
+                "open_issues": 72,
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14458
+                "stars": 14460,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "font",
+                  "free-photos",
+                  "icon-font",
+                  "icons",
+                  "list",
+                  "music",
+                  "patterns",
+                  "stock-photography",
+                  "stock-photos",
+                  "stock-videos",
+                  "templates",
+                  "weather-icons"
+                ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -2290,12 +3482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of websites to spark creativity",
+                "homepage": null,
                 "id": 177750190,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-12T10:55:11Z",
+                "open_issues": 10,
                 "owner": "emmabostian",
                 "repo": "design-inspiration",
-                "stars": 1194
+                "stars": 1195,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             }
@@ -2313,12 +3510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 199873946,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-24T08:29:31Z",
+                "open_issues": 0,
                 "owner": "Vincenius",
                 "repo": "link-list",
-                "stars": 304
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
             },
@@ -2334,12 +3536,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nyan Cat made with HTML5+CSS3+JavaScript",
+                    "homepage": "http://cristurm.github.io/nyan-cat/",
                     "id": 13839107,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2021-06-03T10:22:02Z",
+                    "open_issues": 4,
                     "owner": "cristurm",
                     "repo": "nyan-cat",
-                    "stars": 155
+                    "stars": 155,
+                    "topics": [
+                      "css",
+                      "css3",
+                      "css3-animations",
+                      "nyan-cat"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 },
@@ -2350,12 +3562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Demo site for Netlify Drop",
+                    "homepage": null,
                     "id": 144072102,
                     "language": "CSS",
+                    "license": null,
                     "last_commit": "2021-08-20T19:24:04Z",
+                    "open_issues": 2,
                     "owner": "netlify",
                     "repo": "netlify-drop-demo-site",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
                 }
@@ -2371,15 +3588,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:48:20.685Z",
+    "last_updated": "2026-08-29T04:14:34.614Z",
     "original_repository_info": {
       "archived": true,
+      "description": "Archived — Spark Joy now lives on Forge.",
+      "homepage": "https://forge.smol.ai/swyx/spark-joy",
       "id": 184520105,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-03T06:46:55Z",
+      "open_issues": 22,
       "owner": "swyxio",
       "repo": "spark-joy",
-      "stars": 9795
+      "stars": 9795,
+      "topics": [
+        "awesome-list",
+        "css",
+        "design"
+      ]
     },
     "original_repository_sha": "b44a1f660bffbd411fa505b69eae513a001eaf61",
     "enhanced_repository": "enhansome/enhansome-spark-joy",
