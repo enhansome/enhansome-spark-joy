@@ -1319,7 +1319,7 @@ other boilerplates to use
   * <https://worldvectorlogo.com/>
   * <https://www.vectorlogo.zone/> - consistently formatted SVG logos
 * Icon Libraries and Framework
-  * Iconify <https://github.com/iconify/iconify> ⭐ 6,351 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01 -> use in <https://github.com/antfu/unplugin-icons> ⭐ 4,943 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-11
+  * Iconify <https://github.com/iconify/iconify> ⭐ 6,351 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-01 -> use in <https://github.com/antfu/unplugin-icons> ⭐ 4,944 | 🐛 85 | 🌐 TypeScript | 📅 2026-09-11
 * React Icons
   * <https://github.com/bytedance/IconPark> ⚠️ Archived - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
   * <https://github.com/miukimiu/react-kawaii> ⭐ 2,955 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-28
@@ -1420,7 +1420,7 @@ further reading
 * <https://github.com/mhlabs/cfn-diagram> ⭐ 84 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-30 visualize cloudformation -> draw\.io
 * <https://gojs.net/latest/samples/decisionTree.html> interactive diagrams
 * 4 major text-to-graph langauges (Comparison <https://text-to-diagram.com/>)
-  * <https://github.com/terrastruct/d2> ⭐ 25,557 | 🐛 530 | 🌐 Go | 📅 2026-10-02
+  * <https://github.com/terrastruct/d2> ⭐ 25,556 | 🐛 530 | 🌐 Go | 📅 2026-10-02
   * mermaid <https://mermaid-js.github.io/mermaid/>
   * <https://plantuml.com/>
   * graphviz/dot - useful inside jupyter
@@ -1707,7 +1707,7 @@ tips for product tours <https://dev.to/highlight/how-to-create-animated-product-
 
 misc
 
-* <https://github.com/remotion-dev/remotion> ⭐ 61,607 | 🐛 244 | 🌐 TypeScript | 📅 2026-10-02 - code videos with React
+* <https://github.com/remotion-dev/remotion> ⭐ 61,609 | 🐛 244 | 🌐 TypeScript | 📅 2026-10-02 - code videos with React
   * example usage <https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg>
 * <https://www.fable.app/academy/fable-quick-start-course-part-2-of-3> Fable motion design
 * <https://glitterly.app/> - kinda rough - mostly image maker, video features in beta
@@ -2101,7 +2101,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 ### SVG/Canvas Masking
 
 * JPG/PNG to SVG
-  * <https://github.com/woltapp/blurhash> ⭐ 17,077 | 🐛 50 | 🌐 C | 📅 2024-07-08 small dynamic SVG placeholders for blurring up
+  * <https://github.com/woltapp/blurhash> ⭐ 17,078 | 🐛 50 | 🌐 C | 📅 2024-07-08 small dynamic SVG placeholders for blurring up
   * core tool <http://potrace.sourceforge.net/>
   * <https://picsvg.com/>
   * <https://svgurt.com/#/>
@@ -2428,8 +2428,8 @@ free or mock data apis for demos
   * <https://swapi.dev/> - theres a graphql swapi as well
   * <https://pokeapi.co/api/v2/>
 * Misc
-  * <https://github.com/public-apis/public-apis> ⭐ 485,600 | 🐛 1,990 | 🌐 Python | 📅 2026-10-02
-    * <https://github.com/public-api-lists/public-api-lists> ⭐ 15,976 | 🐛 59 | 📅 2026-09-14
+  * <https://github.com/public-apis/public-apis> ⭐ 485,615 | 🐛 1,994 | 🌐 Python | 📅 2026-10-02
+    * <https://github.com/public-api-lists/public-api-lists> ⭐ 15,976 | 🐛 60 | 📅 2026-09-14
 
   * <https://github.com/Rolstenhouse/unofficial-apis> ⭐ 2,747 | 🐛 8 | 📅 2024-05-27
 
@@ -2450,7 +2450,7 @@ free or mock data apis for demos
 ### Useful big datasets
 
 * Dataset collections
-  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 79,277 | 🐛 161 | 📅 2026-10-02
+  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 79,278 | 🐛 161 | 📅 2026-10-02
   * [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
   * [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
   * <https://www.data-is-plural.com/> dataset newsletter
@@ -2515,7 +2515,7 @@ free or mock data apis for demos
 
 ### Other Lists like this one
 
-* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 67,073 | 🐛 156 | 📅 2026-05-24
+* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 67,074 | 🐛 156 | 📅 2026-05-24
 * <https://github.com/goabstract/Awesome-Design-Tools> ⭐ 41,378 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-28 / <https://github.com/LisaDziuba/Awesome-Design-Tools> ⭐ 41,378 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-28
 * <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,577 | 🐛 100 | 🌐 Ruby | 📅 2026-02-11
 * <https://github.com/emmabostian/design-inspiration> ⭐ 1,205 | 🐛 10 | 📅 2021-02-12

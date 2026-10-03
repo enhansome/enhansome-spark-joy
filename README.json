@@ -1518,7 +1518,7 @@
                         "open_issues": 799,
                         "owner": "bytedance",
                         "repo": "IconPark",
-                        "stars": 9044,
+                        "stars": 9045,
                         "topics": [
                           "fill",
                           "icon",
@@ -1753,7 +1753,7 @@
                     "open_issues": 530,
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25557,
+                    "stars": 25556,
                     "topics": [
                       "developer-tools",
                       "diagramming",
@@ -2233,7 +2233,7 @@
                 "open_issues": 244,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 61607,
+                "stars": 61609,
                 "topics": [
                   "javascript",
                   "react",
@@ -2758,7 +2758,7 @@
                     "open_issues": 50,
                     "owner": "woltapp",
                     "repo": "blurhash",
-                    "stars": 17077,
+                    "stars": 17078,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3132,7 +3132,7 @@
                         "language": null,
                         "license": "MIT",
                         "last_commit": "2026-09-14T07:19:57Z",
-                        "open_issues": 59,
+                        "open_issues": 60,
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
                         "stars": 15976,
@@ -3170,10 +3170,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T22:24:14Z",
-                    "open_issues": 1990,
+                    "open_issues": 1994,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 485600,
+                    "stars": 485615,
                     "topics": [
                       "api",
                       "apis",
@@ -3271,7 +3271,7 @@
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79277,
+                    "stars": 79278,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -3405,7 +3405,7 @@
                 "open_issues": 156,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67073,
+                "stars": 67074,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3589,7 +3589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:25.409Z",
+    "last_updated": "2026-10-03T06:35:17.939Z",
     "original_repository_info": {
       "archived": true,
       "description": "Archived — Spark Joy now lives on Forge.",
