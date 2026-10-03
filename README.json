@@ -15,7 +15,7 @@
                     {
                       "node_type": "item",
                       "title": "Weightless",
-                      "description": null,
+                      "description": "andreasbm/weightless",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -28,7 +28,7 @@
                         "open_issues": 53,
                         "owner": "andreasbm",
                         "repo": "weightless",
-                        "stars": 380,
+                        "stars": 381,
                         "topics": [
                           "components",
                           "custom-elements",
@@ -151,7 +151,7 @@
                     "open_issues": 19,
                     "owner": "oxalorg",
                     "repo": "sakura",
-                    "stars": 4383,
+                    "stars": 4384,
                     "topics": [
                       "classless",
                       "classless-theme",
@@ -215,7 +215,7 @@
                 {
                   "node_type": "item",
                   "title": "susam/spcss",
-                  "description": null,
+                  "description": "susam/spcss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -242,7 +242,7 @@
                 {
                   "node_type": "item",
                   "title": "codazoda/neatcss",
-                  "description": "https://github.com/codazoda/neatcss",
+                  "description": "codazoda/neatcss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -328,7 +328,7 @@
                 {
                   "node_type": "item",
                   "title": "dbohdan/classless-css",
-                  "description": null,
+                  "description": "dbohdan/classless-css",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -355,7 +355,7 @@
                 {
                   "node_type": "item",
                   "title": "dohliam/dropin-minimal-css",
-                  "description": null,
+                  "description": "dohliam/dropin-minimal-css",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -368,7 +368,7 @@
                     "open_issues": 16,
                     "owner": "dohliam",
                     "repo": "dropin-minimal-css",
-                    "stars": 1828,
+                    "stars": 1832,
                     "topics": [
                       "classless",
                       "classless-css",
@@ -399,11 +399,11 @@
                     "id": 179934391,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-04-28T06:03:14Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-02T14:25:21Z",
+                    "open_issues": 9,
                     "owner": "ubershmekel",
                     "repo": "cssbed",
-                    "stars": 187,
+                    "stars": 199,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -433,7 +433,7 @@
                 "open_issues": 3,
                 "owner": "webtui",
                 "repo": "webtui",
-                "stars": 2447,
+                "stars": 2446,
                 "topics": [
                   "astro",
                   "css",
@@ -461,7 +461,7 @@
                 "open_issues": 78,
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21845,
+                "stars": 21844,
                 "topics": [
                   "8bit",
                   "css",
@@ -488,7 +488,7 @@
                 "open_issues": 4,
                 "owner": "vinibiavatti1",
                 "repo": "TuiCss",
-                "stars": 1972,
+                "stars": 1973,
                 "topics": [
                   "ascii",
                   "css",
@@ -549,7 +549,7 @@
                 "open_issues": 1,
                 "owner": "npjg",
                 "repo": "classic.css",
-                "stars": 240,
+                "stars": 236,
                 "topics": [
                   "classic-mac-os"
                 ]
@@ -577,7 +577,7 @@
                     "open_issues": 44,
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11513,
+                    "stars": 11512,
                     "topics": [
                       "css",
                       "design-system",
@@ -645,11 +645,11 @@
                     "id": 222181584,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T18:12:03Z",
+                    "last_commit": "2026-10-02T19:40:55Z",
                     "open_issues": 9,
                     "owner": "codedgar",
                     "repo": "Puppertino",
-                    "stars": 1157,
+                    "stars": 1156,
                     "topics": [
                       "css",
                       "css-framework",
@@ -693,7 +693,7 @@
             {
               "node_type": "item",
               "title": "tiaanduplessis/nanoreset",
-              "description": null,
+              "description": "tiaanduplessis/nanoreset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "jackdomleo7/Checka11y.css",
-              "description": null,
+              "description": "jackdomleo7/Checka11y.css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -812,7 +812,7 @@
             {
               "node_type": "item",
               "title": "mike-engel/a11y-css-reset",
-              "description": null,
+              "description": "mike-engel/a11y-css-reset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -846,7 +846,7 @@
             {
               "node_type": "item",
               "title": "thedevdojo/tails",
-              "description": null,
+              "description": "thedevdojo/tails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -882,9 +882,41 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sanitize.css",
+                  "description": "csstools/sanitize.css",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A best-practices CSS foundation",
+                    "homepage": "https://csstools.github.io/sanitize.css",
+                    "id": 6566489,
+                    "language": "CSS",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-03-26T11:31:36Z",
+                    "open_issues": 22,
+                    "owner": "csstools",
+                    "repo": "sanitize.css",
+                    "stars": 5309,
+                    "topics": [
+                      "css",
+                      "normalization",
+                      "opinionated"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:48:20.685Z"
+                }
+              ],
+              "description": "(what are these?)",
+              "node_type": "group",
+              "title": "For speed, use [System Font Stacks](https://systemfontstack.com/) (incl. Segoe and Roboto)"
+            },
+            {
               "node_type": "item",
               "title": "Free fonts that are great with examples (thanks @edadams",
-              "description": ")",
+              "description": "swyxio/spark-joy",
               "children": [
                 {
                   "node_type": "group",
@@ -907,7 +939,7 @@
                         "open_issues": 428,
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 82082,
+                        "stars": 82080,
                         "topics": [
                           "font",
                           "ligatures",
@@ -930,7 +962,7 @@
                 "open_issues": 22,
                 "owner": "swyxio",
                 "repo": "spark-joy",
-                "stars": 9786,
+                "stars": 9785,
                 "topics": [
                   "awesome-list",
                   "css",
@@ -944,7 +976,7 @@
                 {
                   "node_type": "item",
                   "title": "zachleat/web-font-loading-recipes",
-                  "description": null,
+                  "description": "zachleat/web-font-loading-recipes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -981,37 +1013,6 @@
       "title": "Typography"
     },
     {
-      "description": "(what are these?)",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sanitize.css",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A best-practices CSS foundation",
-            "homepage": "https://csstools.github.io/sanitize.css",
-            "id": 6566489,
-            "language": "CSS",
-            "license": "CC0-1.0",
-            "last_commit": "2026-03-26T11:31:36Z",
-            "open_issues": 22,
-            "owner": "csstools",
-            "repo": "sanitize.css",
-            "stars": 5310,
-            "topics": [
-              "css",
-              "normalization",
-              "opinionated"
-            ]
-          },
-          "first_seen": "2026-08-28T12:48:20.685Z"
-        }
-      ],
-      "title": "For speed, use [System Font Stacks](https://systemfontstack.com/) (incl. Segoe and Roboto)"
-    },
-    {
       "description": "Pick a primary \"brand\" color to match your personality. DO NOT OVERUSE IT.\nYou can also have a grey for secondary content, and lighter grey for tertiary content.\nDon't use system default/named colors, too brutal. Soften it a bit. \"Never use black\" has been proposed as a rule, but this is debated.\nHere's a more complete primer on color personalities with more examples.\nMind accessibility. 1 in 12 men and 1 in 200 women have color blindness. Make sure to check that important distinctions can be perceived.\nOne liner dark mode (careful about perf!): - more filters here\nhttps://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar",
       "items": [
         {
@@ -1019,7 +1020,7 @@
             {
               "node_type": "item",
               "title": "big list of color names: https://github.com/meodai/color-names",
-              "description": null,
+              "description": "meodai/color-names",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1032,7 +1033,7 @@
                 "open_issues": 4,
                 "owner": "meodai",
                 "repo": "color-names",
-                "stars": 3004,
+                "stars": 3003,
                 "topics": [
                   "color",
                   "colors",
@@ -1062,7 +1063,7 @@
                 {
                   "node_type": "item",
                   "title": "D3 Color scales",
-                  "description": null,
+                  "description": "d3/d3-scale-chromatic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1100,7 +1101,7 @@
                 {
                   "node_type": "item",
                   "title": "bansal/pattern.css",
-                  "description": null,
+                  "description": "bansal/pattern.css",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1113,7 +1114,7 @@
                     "open_issues": 18,
                     "owner": "bansal",
                     "repo": "pattern.css",
-                    "stars": 3924,
+                    "stars": 3923,
                     "topics": [
                       "bootstrap",
                       "css",
@@ -1141,7 +1142,7 @@
             {
               "node_type": "item",
               "title": "super advanced pokemon shiny card gradients https://github.com/simeydotme/pokemon-cards-css",
-              "description": null,
+              "description": "simeydotme/pokemon-cards-css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1154,7 +1155,7 @@
                 "open_issues": 3,
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 8252,
+                "stars": 8254,
                 "topics": [
                   "blend-modes",
                   "css",
@@ -1212,7 +1213,7 @@
                     {
                       "node_type": "item",
                       "title": "source https://github.com/nadermx/backgroundremover",
-                      "description": null,
+                      "description": "nadermx/backgroundremover",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1225,7 +1226,7 @@
                         "open_issues": 2,
                         "owner": "nadermx",
                         "repo": "backgroundremover",
-                        "stars": 8085,
+                        "stars": 8084,
                         "topics": [
                           "ai",
                           "background-removal",
@@ -1264,7 +1265,7 @@
             {
               "node_type": "item",
               "title": "joshbuchea/HEAD",
-              "description": null,
+              "description": "joshbuchea/HEAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,11 +1344,11 @@
                     "id": 263452252,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T08:23:21Z",
+                    "last_commit": "2026-10-02T21:40:20Z",
                     "open_issues": 211,
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
-                    "stars": 10876,
+                    "stars": 10877,
                     "topics": [
                       "android",
                       "design",
@@ -1402,7 +1403,7 @@
                     "open_issues": 496,
                     "owner": "twbs",
                     "repo": "icons",
-                    "stars": 8137,
+                    "stars": 8138,
                     "topics": [
                       "bootstrap",
                       "font",
@@ -1431,7 +1432,7 @@
                     "open_issues": 1,
                     "owner": "propublica",
                     "repo": "weepeople",
-                    "stars": 541,
+                    "stars": 542,
                     "topics": [
                       "font",
                       "people",
@@ -1517,7 +1518,7 @@
                         "open_issues": 799,
                         "owner": "bytedance",
                         "repo": "IconPark",
-                        "stars": 9046,
+                        "stars": 9044,
                         "topics": [
                           "fill",
                           "icon",
@@ -1537,7 +1538,7 @@
                     {
                       "node_type": "item",
                       "title": "elizabetdev/react-kawaii",
-                      "description": null,
+                      "description": "elizabetdev/react-kawaii",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1569,7 +1570,7 @@
                     {
                       "node_type": "item",
                       "title": "useAnimations/react-useanimations",
-                      "description": null,
+                      "description": "useAnimations/react-useanimations",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1647,11 +1648,11 @@
                 "id": 177372680,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:59:14Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-03T04:22:12Z",
+                "open_issues": 90,
                 "owner": "holistics",
                 "repo": "dbml",
-                "stars": 3708,
+                "stars": 3713,
                 "topics": [
                   "database-schema",
                   "dbml",
@@ -1670,7 +1671,7 @@
             {
               "node_type": "item",
               "title": "lynn langit's list https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems",
-              "description": null,
+              "description": "lynnlangit/learning-cloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1739,7 +1740,7 @@
                 {
                   "node_type": "item",
                   "title": "d2lang/d2",
-                  "description": null,
+                  "description": "d2lang/d2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1748,11 +1749,11 @@
                     "id": 533087958,
                     "language": "Go",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-09-20T16:30:17Z",
+                    "last_commit": "2026-10-02T18:10:28Z",
                     "open_issues": 530,
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25554,
+                    "stars": 25557,
                     "topics": [
                       "developer-tools",
                       "diagramming",
@@ -1783,7 +1784,7 @@
             {
               "node_type": "item",
               "title": "MariaLetta/mega-doodles-pack",
-              "description": null,
+              "description": "MariaLetta/mega-doodles-pack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1867,7 @@
                 {
                   "node_type": "item",
                   "title": "ozh/ascii-tables",
-                  "description": null,
+                  "description": "ozh/ascii-tables",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1900,7 +1901,7 @@
                 {
                   "node_type": "item",
                   "title": "ebirger/netpen",
-                  "description": null,
+                  "description": "ebirger/netpen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1928,7 +1929,7 @@
                 {
                   "node_type": "item",
                   "title": "marionebl/svg-term-cli",
-                  "description": null,
+                  "description": "marionebl/svg-term-cli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1949,7 +1950,7 @@
                 {
                   "node_type": "item",
                   "title": "ivanceras/svgbob",
-                  "description": null,
+                  "description": "ivanceras/svgbob",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1982,7 +1983,7 @@
                 {
                   "node_type": "item",
                   "title": "peterbrittain/asciimatics",
-                  "description": null,
+                  "description": "peterbrittain/asciimatics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2018,7 +2019,7 @@
                 {
                   "node_type": "item",
                   "title": "slidevjs/slidev",
-                  "description": null,
+                  "description": "slidevjs/slidev",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2027,11 +2028,11 @@
                     "id": 361044034,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T04:20:52Z",
-                    "open_issues": 216,
+                    "last_commit": "2026-10-02T07:30:24Z",
+                    "open_issues": 217,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48906,
+                    "stars": 48911,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -2046,7 +2047,7 @@
                 {
                   "node_type": "item",
                   "title": "maaslalani/slides",
-                  "description": null,
+                  "description": "maaslalani/slides",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2059,7 +2060,7 @@
                     "open_issues": 77,
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11672,
+                    "stars": 11674,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -2072,7 +2073,7 @@
                 {
                   "node_type": "item",
                   "title": "d0c-s4vage/lookatme",
-                  "description": null,
+                  "description": "d0c-s4vage/lookatme",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2103,7 +2104,7 @@
                 {
                   "node_type": "item",
                   "title": "chunqiuyiyu/ervy",
-                  "description": null,
+                  "description": "chunqiuyiyu/ervy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2116,7 +2117,7 @@
                     "open_issues": 3,
                     "owner": "chunqiuyiyu",
                     "repo": "ervy",
-                    "stars": 1603,
+                    "stars": 1602,
                     "topics": [
                       "ascii",
                       "blog",
@@ -2139,7 +2140,7 @@
                 {
                   "node_type": "item",
                   "title": "ggerganov/wtf-tui",
-                  "description": null,
+                  "description": "ggerganov/wtf-tui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2174,7 +2175,7 @@
                 {
                   "node_type": "item",
                   "title": "neutraltone/awesome-stock-resources",
-                  "description": null,
+                  "description": "neutraltone/awesome-stock-resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2184,10 +2185,10 @@
                     "language": "Ruby",
                     "license": "CC0-1.0",
                     "last_commit": "2026-02-11T22:01:53Z",
-                    "open_issues": 99,
+                    "open_issues": 100,
                     "owner": "neutraltone",
                     "repo": "awesome-stock-resources",
-                    "stars": 14575,
+                    "stars": 14577,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2228,11 +2229,11 @@
                 "id": 274495425,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T06:47:41Z",
-                "open_issues": 266,
+                "last_commit": "2026-10-02T19:43:40Z",
+                "open_issues": 244,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 61466,
+                "stars": 61607,
                 "topics": [
                   "javascript",
                   "react",
@@ -2251,7 +2252,7 @@
             {
               "node_type": "item",
               "title": "instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image",
-              "description": null,
+              "description": "pshihn/stippled-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,7 +2278,7 @@
                 {
                   "node_type": "item",
                   "title": "emeraldpay/hashicon",
-                  "description": null,
+                  "description": "emeraldpay/hashicon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2311,7 +2312,7 @@
         {
           "node_type": "item",
           "title": "meta theme-color https://github.com/sw-yx/swyxkit/issues/19",
-          "description": null,
+          "description": "swyxio/swyxkit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2342,7 +2343,7 @@
             {
               "node_type": "item",
               "title": "WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms",
-              "description": null,
+              "description": "mdo/wtf-forms",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2363,7 +2364,7 @@
             {
               "node_type": "item",
               "title": "Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls",
-              "description": null,
+              "description": "scottaohara/a11y_styled_form_controls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2396,7 +2397,7 @@
             {
               "node_type": "item",
               "title": "Pikaday/Pikaday",
-              "description": null,
+              "description": "Pikaday/Pikaday",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2524,7 +2525,7 @@
                 {
                   "node_type": "item",
                   "title": "davidhu2000/react-spinners",
-                  "description": null,
+                  "description": "davidhu2000/react-spinners",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2556,7 +2557,7 @@
                 {
                   "node_type": "item",
                   "title": "adexin/spinners-react",
-                  "description": null,
+                  "description": "adexin/spinners-react",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2595,7 +2596,7 @@
                 {
                   "node_type": "item",
                   "title": "JoshK2/react-spinners-css",
-                  "description": null,
+                  "description": "JoshK2/react-spinners-css",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2626,7 +2627,7 @@
                 {
                   "node_type": "item",
                   "title": "JoshK2/react-spinners-css",
-                  "description": null,
+                  "description": "JoshK2/react-spinners-css",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2693,7 +2694,7 @@
             {
               "node_type": "item",
               "title": "thedevelobear/react-rewards",
-              "description": null,
+              "description": "thedevelobear/react-rewards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2757,7 +2758,7 @@
                     "open_issues": 50,
                     "owner": "woltapp",
                     "repo": "blurhash",
-                    "stars": 17078,
+                    "stars": 17077,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -2782,7 +2783,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-08-05T17:53:30Z",
-                    "open_issues": 41,
+                    "open_issues": 40,
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
                     "stars": 7855,
@@ -2811,7 +2812,7 @@
         {
           "node_type": "item",
           "title": "motion graphics https://github.com/mojs/mojs",
-          "description": null,
+          "description": "mojs/mojs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2824,7 +2825,7 @@
             "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18791,
+            "stars": 18792,
             "topics": [
               "animation",
               "burst",
@@ -2880,7 +2881,7 @@
         {
           "node_type": "item",
           "title": "Layout https://github.com/aholachek/react-flip-toolkit",
-          "description": null,
+          "description": "aholachek/react-flip-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2909,7 +2910,7 @@
             {
               "node_type": "item",
               "title": "React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css",
-              "description": null,
+              "description": "JoshK2/react-spinners-css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2947,7 +2948,7 @@
             {
               "node_type": "item",
               "title": "brunnolou/react-morph",
-              "description": null,
+              "description": "brunnolou/react-morph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2968,7 +2969,7 @@
             {
               "node_type": "item",
               "title": "kitze/react-genie",
-              "description": null,
+              "description": "kitze/react-genie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2989,7 +2990,7 @@
             {
               "node_type": "item",
               "title": "Page transitions https://github.com/joerez/react-transitions/",
-              "description": null,
+              "description": "joerez/react-transitions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3036,7 +3037,7 @@
                 "open_issues": 42,
                 "owner": "shuding",
                 "repo": "cobe",
-                "stars": 5916,
+                "stars": 5923,
                 "topics": [
                   "globe",
                   "webgl"
@@ -3047,7 +3048,7 @@
             {
               "node_type": "item",
               "title": "makepad/makepad",
-              "description": null,
+              "description": "makepad/makepad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3056,11 +3057,11 @@
                 "id": 171664300,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:21:31Z",
+                "last_commit": "2026-10-02T21:24:51Z",
                 "open_issues": 33,
                 "owner": "makepad",
                 "repo": "makepad",
-                "stars": 7115,
+                "stars": 7121,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3086,7 +3087,7 @@
                 {
                   "node_type": "item",
                   "title": "imsky/holder",
-                  "description": null,
+                  "description": "imsky/holder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3116,12 +3117,12 @@
                 {
                   "node_type": "item",
                   "title": "public-apis/public-apis",
-                  "description": null,
+                  "description": "public-apis/public-apis",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "public-api-lists/public-api-lists",
-                      "description": null,
+                      "description": "public-api-lists/public-api-lists",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3134,7 +3135,7 @@
                         "open_issues": 59,
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 15964,
+                        "stars": 15976,
                         "topics": [
                           "api",
                           "api-list",
@@ -3168,11 +3169,11 @@
                     "id": 54346799,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T21:21:39Z",
-                    "open_issues": 1985,
+                    "last_commit": "2026-10-02T22:24:14Z",
+                    "open_issues": 1990,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 485340,
+                    "stars": 485600,
                     "topics": [
                       "api",
                       "apis",
@@ -3194,7 +3195,7 @@
                 {
                   "node_type": "item",
                   "title": "Rolstenhouse/unofficial-apis",
-                  "description": null,
+                  "description": "Rolstenhouse/unofficial-apis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3215,7 +3216,7 @@
                 {
                   "node_type": "item",
                   "title": "mock fake user events https://github.com/andresionek91/fake-web-events",
-                  "description": null,
+                  "description": "andresionek91/fake-web-events",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3257,7 +3258,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets",
-                  "description": null,
+                  "description": "awesomedata/awesome-public-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3266,11 +3267,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-01T20:21:37Z",
+                    "last_commit": "2026-10-02T19:47:28Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79276,
+                    "stars": 79277,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -3290,7 +3291,7 @@
                 {
                   "node_type": "item",
                   "title": "Chinook: https://github.com/lerocha/chinook-database",
-                  "description": null,
+                  "description": "lerocha/chinook-database",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3303,7 +3304,7 @@
                     "open_issues": 8,
                     "owner": "lerocha",
                     "repo": "chinook-database",
-                    "stars": 2622,
+                    "stars": 2624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3391,7 +3392,7 @@
             {
               "node_type": "item",
               "title": "bradtraversy/design-resources-for-developers",
-              "description": null,
+              "description": "bradtraversy/design-resources-for-developers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3401,10 +3402,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-05-24T10:07:48Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67075,
+                "stars": 67073,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3422,10 +3423,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-28T19:57:31Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41371,
+                "stars": 41378,
                 "topics": [
                   "animations",
                   "awesome",
@@ -3442,7 +3443,7 @@
             {
               "node_type": "item",
               "title": "neutraltone/awesome-stock-resources",
-              "description": null,
+              "description": "neutraltone/awesome-stock-resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3452,10 +3453,10 @@
                 "language": "Ruby",
                 "license": "CC0-1.0",
                 "last_commit": "2026-02-11T22:01:53Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14575,
+                "stars": 14577,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3478,7 +3479,7 @@
             {
               "node_type": "item",
               "title": "emmabostian/design-inspiration",
-              "description": null,
+              "description": "emmabostian/design-inspiration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3506,7 +3507,7 @@
             {
               "node_type": "item",
               "title": "Vincenius/link-list",
-              "description": null,
+              "description": "Vincenius/link-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3532,7 +3533,7 @@
                 {
                   "node_type": "item",
                   "title": "cristurm/nyan-cat",
-                  "description": null,
+                  "description": "cristurm/nyan-cat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3558,7 +3559,7 @@
                 {
                   "node_type": "item",
                   "title": "netlify/netlify-drop-demo-site",
-                  "description": null,
+                  "description": "netlify/netlify-drop-demo-site",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3588,7 +3589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:01:44.453Z",
+    "last_updated": "2026-10-03T05:12:25.409Z",
     "original_repository_info": {
       "archived": true,
       "description": "Archived — Spark Joy now lives on Forge.",
@@ -3600,7 +3601,7 @@
       "open_issues": 22,
       "owner": "swyxio",
       "repo": "spark-joy",
-      "stars": 9786,
+      "stars": 9785,
       "topics": [
         "awesome-list",
         "css",
