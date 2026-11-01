@@ -151,7 +151,7 @@
                     "open_issues": 19,
                     "owner": "oxalorg",
                     "repo": "sakura",
-                    "stars": 4394,
+                    "stars": 4393,
                     "topics": [
                       "classless",
                       "classless-theme",
@@ -433,7 +433,7 @@
                 "open_issues": 2,
                 "owner": "webtui",
                 "repo": "webtui",
-                "stars": 2475,
+                "stars": 2477,
                 "topics": [
                   "astro",
                   "css",
@@ -461,7 +461,7 @@
                 "open_issues": 78,
                 "owner": "nostalgic-css",
                 "repo": "NES.css",
-                "stars": 21852,
+                "stars": 21851,
                 "topics": [
                   "8bit",
                   "css",
@@ -488,7 +488,7 @@
                 "open_issues": 4,
                 "owner": "vinibiavatti1",
                 "repo": "TuiCss",
-                "stars": 1987,
+                "stars": 1988,
                 "topics": [
                   "ascii",
                   "css",
@@ -577,7 +577,7 @@
                     "open_issues": 44,
                     "owner": "jdan",
                     "repo": "98.css",
-                    "stars": 11581,
+                    "stars": 11587,
                     "topics": [
                       "css",
                       "design-system",
@@ -628,7 +628,7 @@
                     "open_issues": 24,
                     "owner": "botoxparty",
                     "repo": "XP.css",
-                    "stars": 3139,
+                    "stars": 3142,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -645,8 +645,8 @@
                     "id": 222181584,
                     "language": "MDX",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T13:33:51Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-31T16:56:46Z",
+                    "open_issues": 1,
                     "owner": "codedgar",
                     "repo": "Puppertino",
                     "stars": 1204,
@@ -761,7 +761,7 @@
                     "open_issues": 28,
                     "owner": "sindresorhus",
                     "repo": "modern-normalize",
-                    "stars": 7433,
+                    "stars": 7434,
                     "topics": [
                       "css",
                       "css-library",
@@ -939,7 +939,7 @@
                         "open_issues": 428,
                         "owner": "tonsky",
                         "repo": "FiraCode",
-                        "stars": 82161,
+                        "stars": 82164,
                         "topics": [
                           "font",
                           "ligatures",
@@ -1029,11 +1029,11 @@
                 "id": 89168390,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T00:41:13Z",
+                "last_commit": "2026-10-31T18:24:59Z",
                 "open_issues": 3,
                 "owner": "meodai",
                 "repo": "color-names",
-                "stars": 3091,
+                "stars": 3094,
                 "topics": [
                   "color",
                   "colors",
@@ -1155,7 +1155,7 @@
                 "open_issues": 3,
                 "owner": "simeydotme",
                 "repo": "pokemon-cards-css",
-                "stars": 8339,
+                "stars": 8342,
                 "topics": [
                   "blend-modes",
                   "css",
@@ -1192,7 +1192,7 @@
                     "open_issues": 35,
                     "owner": "imgly",
                     "repo": "background-removal-js",
-                    "stars": 7359,
+                    "stars": 7360,
                     "topics": [
                       "background-removal",
                       "image-matting",
@@ -1278,7 +1278,7 @@
                 "open_issues": 2,
                 "owner": "joshbuchea",
                 "repo": "HEAD",
-                "stars": 30271,
+                "stars": 30272,
                 "topics": [
                   "favicon",
                   "frontend-development",
@@ -1320,7 +1320,7 @@
                     "open_issues": 35,
                     "owner": "edent",
                     "repo": "SuperTinyIcons",
-                    "stars": 15404,
+                    "stars": 15405,
                     "topics": [
                       "hacktoberfest",
                       "logo",
@@ -1348,7 +1348,7 @@
                     "open_issues": 215,
                     "owner": "microsoft",
                     "repo": "fluentui-system-icons",
-                    "stars": 10928,
+                    "stars": 10929,
                     "topics": [
                       "android",
                       "design",
@@ -1377,7 +1377,7 @@
                     "open_issues": 604,
                     "owner": "Remix-Design",
                     "repo": "RemixIcon",
-                    "stars": 8442,
+                    "stars": 8443,
                     "topics": [
                       "icon",
                       "icon-font",
@@ -1399,11 +1399,11 @@
                     "id": 198878888,
                     "language": "Astro",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T20:40:53Z",
-                    "open_issues": 498,
+                    "last_commit": "2026-11-01T05:29:50Z",
+                    "open_issues": 503,
                     "owner": "twbs",
                     "repo": "icons",
-                    "stars": 8164,
+                    "stars": 8165,
                     "topics": [
                       "bootstrap",
                       "font",
@@ -1479,11 +1479,11 @@
                         "id": 82819844,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-31T02:20:59Z",
+                        "last_commit": "2026-11-01T07:15:02Z",
                         "open_issues": 21,
                         "owner": "iconify",
                         "repo": "iconify",
-                        "stars": 6378,
+                        "stars": 6380,
                         "topics": [
                           "emoji",
                           "glyph-fonts",
@@ -1583,7 +1583,7 @@
                         "open_issues": 0,
                         "owner": "useAnimations",
                         "repo": "react-useanimations",
-                        "stars": 1256,
+                        "stars": 1257,
                         "topics": [
                           "animation",
                           "lottie",
@@ -1652,7 +1652,7 @@
                 "open_issues": 84,
                 "owner": "holistics",
                 "repo": "dbml",
-                "stars": 3721,
+                "stars": 3724,
                 "topics": [
                   "database-schema",
                   "dbml",
@@ -1753,7 +1753,7 @@
                     "open_issues": 543,
                     "owner": "d2lang",
                     "repo": "d2",
-                    "stars": 25770,
+                    "stars": 25774,
                     "topics": [
                       "developer-tools",
                       "diagramming",
@@ -1942,7 +1942,7 @@
                     "open_issues": 48,
                     "owner": "marionebl",
                     "repo": "svg-term-cli",
-                    "stars": 4247,
+                    "stars": 4248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -1996,7 +1996,7 @@
                     "open_issues": 25,
                     "owner": "peterbrittain",
                     "repo": "asciimatics",
-                    "stars": 4311,
+                    "stars": 4310,
                     "topics": [
                       "ascii-art",
                       "console",
@@ -2032,7 +2032,7 @@
                     "open_issues": 220,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 49304,
+                    "stars": 49310,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -2060,7 +2060,7 @@
                     "open_issues": 79,
                     "owner": "maaslalani",
                     "repo": "slides",
-                    "stars": 11697,
+                    "stars": 11698,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -2185,10 +2185,10 @@
                     "language": "Ruby",
                     "license": "CC0-1.0",
                     "last_commit": "2026-02-11T22:01:53Z",
-                    "open_issues": 134,
+                    "open_issues": 135,
                     "owner": "neutraltone",
                     "repo": "awesome-stock-resources",
-                    "stars": 14656,
+                    "stars": 14658,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2229,11 +2229,11 @@
                 "id": 274495425,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T21:45:31Z",
-                "open_issues": 182,
+                "last_commit": "2026-11-01T07:29:13Z",
+                "open_issues": 180,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 69207,
+                "stars": 69535,
                 "topics": [
                   "javascript",
                   "react",
@@ -2534,8 +2534,8 @@
                     "id": 96266792,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T03:43:18Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-31T18:56:10Z",
+                    "open_issues": 28,
                     "owner": "davidhu2000",
                     "repo": "react-spinners",
                     "stars": 3355,
@@ -2698,28 +2698,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A package containing a few micro-interactions you can use to reward your users for little things and make them smile!",
-                "homepage": "https://github.com/thedevelobear/react-rewards",
+                "description": "A package containing micro-interactions you can use to reward your users for little things and make them smile!",
+                "homepage": "https://thedevelobear.github.io/react-rewards/",
                 "id": 157291522,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T21:41:58Z",
+                "last_commit": "2026-10-31T14:39:31Z",
                 "open_issues": 1,
                 "owner": "thedevelobear",
                 "repo": "react-rewards",
-                "stars": 1678,
+                "stars": 1679,
                 "topics": [
                   "balloons",
                   "confetti",
                   "emoji",
-                  "front-end",
+                  "fireworks",
                   "micro-interactions",
+                  "particle-engine",
+                  "particles",
                   "react",
                   "react-components",
                   "reactjs",
-                  "rewards",
-                  "user-experience",
-                  "ux"
+                  "rewards"
                 ]
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -2786,7 +2786,7 @@
                     "open_issues": 42,
                     "owner": "SVG-Edit",
                     "repo": "svgedit",
-                    "stars": 7891,
+                    "stars": 7892,
                     "topics": [
                       "javascript",
                       "svg",
@@ -2825,7 +2825,7 @@
             "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18841,
+            "stars": 18842,
             "topics": [
               "animation",
               "burst",
@@ -2866,7 +2866,7 @@
             "open_issues": 3,
             "owner": "swup",
             "repo": "swup",
-            "stars": 5252,
+            "stars": 5254,
             "topics": [
               "animation",
               "javascript",
@@ -3037,7 +3037,7 @@
                 "open_issues": 44,
                 "owner": "shuding",
                 "repo": "cobe",
-                "stars": 6022,
+                "stars": 6026,
                 "topics": [
                   "globe",
                   "webgl"
@@ -3057,8 +3057,8 @@
                 "id": 171664300,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-30T16:31:51Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-31T19:02:50Z",
+                "open_issues": 51,
                 "owner": "makepad",
                 "repo": "makepad",
                 "stars": 7230,
@@ -3132,10 +3132,10 @@
                         "language": null,
                         "license": "MIT",
                         "last_commit": "2026-09-14T07:19:57Z",
-                        "open_issues": 163,
+                        "open_issues": 166,
                         "owner": "public-api-lists",
                         "repo": "public-api-lists",
-                        "stars": 16262,
+                        "stars": 16273,
                         "topics": [
                           "api",
                           "api-list",
@@ -3170,10 +3170,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-30T16:40:39Z",
-                    "open_issues": 2494,
+                    "open_issues": 2516,
                     "owner": "public-apis",
                     "repo": "public-apis",
-                    "stars": 493608,
+                    "stars": 493886,
                     "topics": [
                       "api",
                       "apis",
@@ -3271,7 +3271,7 @@
                     "open_issues": 167,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79865,
+                    "stars": 79889,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -3304,7 +3304,7 @@
                     "open_issues": 8,
                     "owner": "lerocha",
                     "repo": "chinook-database",
-                    "stars": 2630,
+                    "stars": 2629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3337,7 +3337,7 @@
                         "open_issues": 16,
                         "owner": "databricks",
                         "repo": "docker-spark-iceberg",
-                        "stars": 389,
+                        "stars": 388,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3367,7 +3367,7 @@
                     "open_issues": 9,
                     "owner": "garythung",
                     "repo": "trashnet",
-                    "stars": 727,
+                    "stars": 728,
                     "topics": [
                       "convolutional-neural-networks",
                       "dataset",
@@ -3405,7 +3405,7 @@
                 "open_issues": 4,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67295,
+                "stars": 67301,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:48:20.685Z"
@@ -3426,7 +3426,7 @@
                 "open_issues": 240,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41708,
+                "stars": 41720,
                 "topics": [
                   "animations",
                   "awesome",
@@ -3453,10 +3453,10 @@
                 "language": "Ruby",
                 "license": "CC0-1.0",
                 "last_commit": "2026-02-11T22:01:53Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14656,
+                "stars": 14658,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3589,7 +3589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:01:08.501Z",
+    "last_updated": "2026-11-01T07:35:37.703Z",
     "original_repository_info": {
       "archived": true,
       "description": "Archived — Spark Joy now lives on Forge.",
