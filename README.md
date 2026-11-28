@@ -235,7 +235,7 @@ see also <http://bettermotherfuckingwebsite.com/>
 
 focus is fun
 
-* <https://terminalcss.xyz/> and <https://github.com/webtui/webtui> ⭐ 2,490 | 🐛 3 | 🌐 MDX | 📅 2026-10-12
+* <https://terminalcss.xyz/> and <https://github.com/webtui/webtui> ⭐ 2,491 | 🐛 3 | 🌐 MDX | 📅 2026-10-12
 * <https://www.getpapercss.com/> (handrwritingey css similar to roughjs)
 
 focus is brutalism
@@ -245,17 +245,17 @@ focus is brutalism
 
 focus is fun/nostalgia
 
-* [NES.css](https://github.com/nostalgic-css/NES.css) ⭐ 21,860 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17: NES.css is a NES-style(8bit-like) CSS Framework.
-* [Text UI CSS](https://github.com/vinibiavatti1/TuiCss) ⭐ 1,992 | 🐛 4 | 🌐 SCSS | 📅 2026-06-19: bios like UI's
+* [NES.css](https://github.com/nostalgic-css/NES.css) ⭐ 21,859 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17: NES.css is a NES-style(8bit-like) CSS Framework.
+* [Text UI CSS](https://github.com/vinibiavatti1/TuiCss) ⭐ 1,993 | 🐛 4 | 🌐 SCSS | 📅 2026-06-19: bios like UI's
 * [PSone.css](https://github.com/micah5/PSone.css) ⭐ 803 | 🐛 8 | 🌐 CSS | 📅 2026-10-19: PS1 style CSS Framework, inspired by NES.css.
 * [New Dawn](https://github.com/npjg/new-dawn) ⭐ 240 | 🐛 1 | 🌐 CSS | 📅 2024-04-05: A mac classic After Dark inspired stylesheet.
 * [LaTeX.css](https://latex.now.sh/)
 * Operating System CSS
-  * [98.css](https://github.com/jdan/98.css) ⭐ 11,641 | 🐛 44 | 🌐 CSS | 📅 2025-09-07: A Windows 98 inspired framework for building faithful recreations of old UIs.
+  * [98.css](https://github.com/jdan/98.css) ⭐ 11,647 | 🐛 44 | 🌐 CSS | 📅 2025-09-07: A Windows 98 inspired framework for building faithful recreations of old UIs.
     * [Office 97 clipart in svg format](https://archive.org/details/mso97clipart)
   * DOS: [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) ⭐ 6,881 | 🐛 43 | 🌐 HTML | 📅 2026-11-04: A vintage 1980s DOS inspired Twitter Bootstrap theme
-  * [XP.css](https://github.com/botoxparty/XP.css) ⭐ 3,160 | 🐛 24 | 🌐 SCSS | 📅 2025-03-08: A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
-  * [Puppertino](https://github.com/codedgar/Puppertino) ⭐ 1,220 | 🐛 2 | 🌐 MDX | 📅 2026-11-14  meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
+  * [XP.css](https://github.com/botoxparty/XP.css) ⭐ 3,161 | 🐛 24 | 🌐 SCSS | 📅 2025-03-08: A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
+  * [Puppertino](https://github.com/codedgar/Puppertino) ⭐ 1,221 | 🐛 2 | 🌐 MDX | 📅 2026-11-14  meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
   * [React95](https://react95.github.io/React95/)
   * [7.css](https://khang-nd.github.io/7.css/)
   * [System.css](https://sakofchit.github.io/system.css/) Retro Apple-inspired UI
@@ -521,7 +521,7 @@ typography matters! <https://twitter.com/kvncnls/status/1399077512014086150?s=21
   monospace;                        // The final fallback for rendering in monospace.
 ```
 
-* [Sanitize.css](https://github.com/csstools/sanitize.css#typography-uses-the-default-system-font) ⭐ 5,312 | 🐛 22 | 🌐 CSS | 📅 2026-03-26:
+* [Sanitize.css](https://github.com/csstools/sanitize.css#typography-uses-the-default-system-font) ⭐ 5,311 | 🐛 22 | 🌐 CSS | 📅 2026-03-26:
 
 ```css
   html {
@@ -568,7 +568,7 @@ See also [Modern Font Stacks](https://modernfontstacks.com/) - [discussion](http
 
 * Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22) ⚠️ Archived)
   * Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
-    * [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) ⭐ 82,216 | 🐛 430 | 🌐 Clojure | 📅 2026-11-18 for devvy stuff
+    * [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) ⭐ 82,221 | 🐛 430 | 🌐 Clojure | 📅 2026-11-18 for devvy stuff
     * <https://www.colorsandfonts.com/font-pairing>
     * <https://www.nngroup.com/articles/pairing-typefaces/>
     * <https://fontflipper.com/upload> Just upload an image, write some sample copy. And flip through 500 Google fonts one by one.
@@ -958,7 +958,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 
 Not tools but still important so here they are
 
-* big list of color names: <https://github.com/meodai/color-names> ⭐ 3,117 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-19
+* big list of color names: <https://github.com/meodai/color-names> ⭐ 3,117 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-19
 
 * [A Beginner’s Guide to Applying Color in UI Design](https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/?ref=sidebar)
 
@@ -1067,7 +1067,7 @@ Linear gradients can be "eased" to be smoother: <https://css-tricks.com/easing-l
 
 #### Background Patterns
 
-* <https://github.com/bansal-io/pattern.css> ⭐ 3,921 | 🐛 18 | 🌐 HTML | 📅 2022-03-26
+* <https://github.com/bansal-io/pattern.css> ⭐ 3,922 | 🐛 18 | 🌐 HTML | 📅 2022-03-26
 * <https://trianglify.io/> low polly pattern generator
 * <https://leaverou.github.io/css3patterns/>
 * <http://www.heropatterns.com/> SVG Repeating Patterns Generator
@@ -1121,7 +1121,7 @@ Linear gradients can be "eased" to be smoother: <https://css-tricks.com/easing-l
 
 ### Misc Backgroundy Stuff
 
-* super advanced pokemon shiny card gradients <https://github.com/simeydotme/pokemon-cards-css> ⭐ 8,532 | 🐛 3 | 🌐 CSS | 📅 2025-12-15
+* super advanced pokemon shiny card gradients <https://github.com/simeydotme/pokemon-cards-css> ⭐ 8,534 | 🐛 3 | 🌐 CSS | 📅 2025-12-15
 * CSS Doodle <https://css-doodle.com/>
 * CSS backgroundy patterns <https://leaverou.github.io/css3patterns/>
 * this guy <https://twitter.com/yuanchuan23>
@@ -1233,7 +1233,7 @@ frontmatter.cover_image : 'https://www.swyx.io/swyx-ski.jpeg'} />
 
 other boilerplates to use
 
-* <https://github.com/joshbuchea/HEAD> ⭐ 30,270 | 🐛 3 | 📅 2026-11-24
+* <https://github.com/joshbuchea/HEAD> ⭐ 30,271 | 🐛 3 | 📅 2026-11-24
 * <https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/>
 * <https://www.matuzo.at/blog/html-boilerplate/>
 * maybe think about adding JSON+LD too.
@@ -1264,9 +1264,9 @@ other boilerplates to use
 > Note you can put gradients on SVG icons manually <https://play.tailwindcss.com/yM2N8GpEUK>
 
 * <https://github.com/edent/SuperTinyIcons> ⭐ 15,447 | 🐛 35 | 🌐 Python | 📅 2026-05-18 Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes!
-* <https://github.com/microsoft/fluentui-system-icons> ⭐ 11,018 | 🐛 220 | 🌐 HTML | 📅 2026-11-24 Fluent UI System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-* <https://github.com/Remix-Design/RemixIcon> ⭐ 8,473 | 🐛 604 | 🌐 Less | 📅 2026-04-28 neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
-* Bootstrap Icons <https://github.com/twbs/icons> ⭐ 8,194 | 🐛 506 | 🌐 Astro | 📅 2026-11-23, <https://icons.getbootstrap.com/>
+* <https://github.com/microsoft/fluentui-system-icons> ⭐ 11,017 | 🐛 220 | 🌐 HTML | 📅 2026-11-27 Fluent UI System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+* <https://github.com/Remix-Design/RemixIcon> ⭐ 8,475 | 🐛 604 | 🌐 Less | 📅 2026-04-28 neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
+* Bootstrap Icons <https://github.com/twbs/icons> ⭐ 8,195 | 🐛 506 | 🌐 Astro | 📅 2026-11-23, <https://icons.getbootstrap.com/>
 * <http://github.com/propublica/weepeople> ⭐ 542 | 🐛 1 | 📅 2022-08-22 A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 * <https://iconscout.com/unicons> and <https://github.com/Iconscout/react-unicons> ⭐ 346 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-01
 * ⭐ <https://www.heroicons.com/> Steve schoger's (somewhat limited) svg iconset. another viewer: <https://heroicons.dev/>
@@ -1319,7 +1319,7 @@ other boilerplates to use
   * <https://worldvectorlogo.com/>
   * <https://www.vectorlogo.zone/> - consistently formatted SVG logos
 * Icon Libraries and Framework
-  * Iconify <https://github.com/iconify/iconify> ⭐ 6,419 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-26 -> use in <https://github.com/antfu/unplugin-icons> ⭐ 4,963 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11
+  * Iconify <https://github.com/iconify/iconify> ⭐ 6,422 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-26 -> use in <https://github.com/antfu/unplugin-icons> ⭐ 4,963 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11
 * React Icons
   * <https://github.com/bytedance/IconPark> ⚠️ Archived - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
   * <https://github.com/miukimiu/react-kawaii> ⭐ 2,959 | 🐛 13 | 🌐 TypeScript | 📅 2025-09-28
@@ -1420,7 +1420,7 @@ further reading
 * <https://github.com/mhlabs/cfn-diagram> ⭐ 83 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-30 visualize cloudformation -> draw\.io
 * <https://gojs.net/latest/samples/decisionTree.html> interactive diagrams
 * 4 major text-to-graph langauges (Comparison <https://text-to-diagram.com/>)
-  * <https://github.com/terrastruct/d2> ⭐ 25,962 | 🐛 369 | 🌐 Go | 📅 2026-11-27
+  * <https://github.com/terrastruct/d2> ⭐ 25,983 | 🐛 364 | 🌐 Go | 📅 2026-11-28
   * mermaid <https://mermaid-js.github.io/mermaid/>
   * <https://plantuml.com/>
   * graphviz/dot - useful inside jupyter
@@ -1604,9 +1604,9 @@ from [matrix8967](\[url]\(https://news.ycombinator.com/user?id=matrix8967\)): So
   * <https://charm.sh/>
   * <http://maaslalani.com/slides/>
 * TUI/Text-Based presentaion tools:
-  * <https://github.com/slidevjs/slidev/> ⭐ 49,656 | 🐛 188 | 🌐 TypeScript | 📅 2026-11-27
+  * <https://github.com/slidevjs/slidev/> ⭐ 49,663 | 🐛 191 | 🌐 TypeScript | 📅 2026-11-27
   * <https://github.com/maaslalani/slides/> ⭐ 11,716 | 🐛 79 | 🌐 Go | 📅 2026-07-08
-  * <https://github.com/d0c-s4vage/lookatme/> ⭐ 2,333 | 🐛 38 | 🌐 Python | 📅 2024-04-02
+  * <https://github.com/d0c-s4vage/lookatme/> ⭐ 2,334 | 🐛 38 | 🌐 Python | 📅 2024-04-02
   * <https://github.com/chunqiuyiyu/ervy/> ⭐ 1,601 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-27
   * <https://sli.dev/>
   * <http://maaslalani.com/slides/>
@@ -1661,7 +1661,7 @@ from [matrix8967](\[url]\(https://news.ycombinator.com/user?id=matrix8967\)): So
   * <https://allthefreestock.com/>
   * <https://thenounproject.com/search/photos/?q=happy>
 * lists of more resources
-  * <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,888 | 🐛 149 | 🌐 Ruby | 📅 2026-02-11
+  * <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,890 | 🐛 149 | 🌐 Ruby | 📅 2026-02-11
   * random low quality list <https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/>
   * <https://burst.shopify.com/> Burst from Shopify - Free stock photos for everyone
 * Paid
@@ -1707,7 +1707,7 @@ tips for product tours <https://dev.to/highlight/how-to-create-animated-product-
 
 misc
 
-* <https://github.com/remotion-dev/remotion> ⭐ 76,052 | 🐛 184 | 🌐 TypeScript | 📅 2026-11-27 - code videos with React
+* <https://github.com/remotion-dev/remotion> ⭐ 76,240 | 🐛 182 | 🌐 TypeScript | 📅 2026-11-27 - code videos with React
   * example usage <https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg>
 * <https://www.fable.app/academy/fable-quick-start-course-part-2-of-3> Fable motion design
 * <https://glitterly.app/> - kinda rough - mostly image maker, video features in beta
@@ -1943,7 +1943,7 @@ Tools:
 
 ### Dashboarding
 
-* <https://github.com/cruip/tailwind-dashboard-template> ⭐ 2,857 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-02 This one is made with Tailwind and React and includes optional chart components built with Chart.js.
+* <https://github.com/cruip/tailwind-dashboard-template> ⭐ 2,856 | 🐛 3 | 🌐 JavaScript | 📅 2025-03-02 This one is made with Tailwind and React and includes optional chart components built with Chart.js.
 
 ### Nice React Components
 
@@ -2155,9 +2155,9 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 
 <https://x.com/emilkowalski/status/2031742178297335879>
 
-* motion graphics <https://github.com/mojs/mojs> ⭐ 18,950 | 🐛 37 | 🌐 CoffeeScript | 📅 2026-07-30
+* motion graphics <https://github.com/mojs/mojs> ⭐ 18,952 | 🐛 37 | 🌐 CoffeeScript | 📅 2026-07-30
 
-* Page Transitions with swup <https://github.com/swup/swup> ⭐ 5,257 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
+* Page Transitions with swup <https://github.com/swup/swup> ⭐ 5,258 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 
 * Layout <https://github.com/aholachek/react-flip-toolkit> ⭐ 4,184 | 🐛 59 | 🌐 TypeScript | 📅 2024-09-28
 
@@ -2233,7 +2233,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 ### React Animation Tools
 
 * <https://github.com/brunnolou/react-morph> ⭐ 2,545 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20
-* <https://github.com/kitze/react-genie> ⭐ 741 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-26
+* <https://github.com/kitze/react-genie> ⭐ 741 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-27
 * Page transitions <https://github.com/joerez/react-transitions/> ⭐ 210 | 🐛 9 | 🌐 JavaScript | 📅 2022-12-10
 * <https://react-simple-animate.now.sh/>
 * <https://animxyz.com/docs/> has react and vue integration
@@ -2312,7 +2312,7 @@ Welcome emails
 
 ### WebGL
 
-* <https://github.com/shuding/cobe> ⭐ 6,087 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-22 - webgl globe ([tweet](\[url]\(https://twitter.com/shuding_/status/1475916082875666441?s=20\)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20\&t=X05jU6q8ZWzymTF44CIFNQ))
+* <https://github.com/shuding/cobe> ⭐ 6,086 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-22 - webgl globe ([tweet](\[url]\(https://twitter.com/shuding_/status/1475916082875666441?s=20\)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20\&t=X05jU6q8ZWzymTF44CIFNQ))
 * [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 * [Polygonjs](https://polygonjs.com/) open-source, node-based WebGL design tool, to create 3D scenes procedurally.
 
@@ -2428,10 +2428,10 @@ free or mock data apis for demos
   * <https://swapi.dev/> - theres a graphql swapi as well
   * <https://pokeapi.co/api/v2/>
 * Misc
-  * <https://github.com/public-apis/public-apis> ⭐ 501,723 | 🐛 3,020 | 🌐 Python | 📅 2026-11-22
-    * <https://github.com/public-api-lists/public-api-lists> ⭐ 16,482 | 🐛 280 | 📅 2026-09-14
+  * <https://github.com/public-apis/public-apis> ⭐ 501,868 | 🐛 3,051 | 🌐 Python | 📅 2026-11-27
+    * <https://github.com/public-api-lists/public-api-lists> ⭐ 16,483 | 🐛 285 | 📅 2026-09-14
 
-  * <https://github.com/Rolstenhouse/unofficial-apis> ⭐ 2,756 | 🐛 8 | 📅 2024-05-27
+  * <https://github.com/Rolstenhouse/unofficial-apis> ⭐ 2,755 | 🐛 8 | 📅 2024-05-27
 
   * mock fake user events <https://github.com/andresionek91/fake-web-events> ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2026-04-13
 
@@ -2450,7 +2450,7 @@ free or mock data apis for demos
 ### Useful big datasets
 
 * Dataset collections
-  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 80,522 | 🐛 171 | 📅 2026-11-26
+  * Awesome Public Datasets <https://github.com/awesomedata/awesome-public-datasets> ⭐ 80,545 | 🐛 171 | 📅 2026-11-27
   * [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
   * [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
   * <https://www.data-is-plural.com/> dataset newsletter
@@ -2493,7 +2493,7 @@ free or mock data apis for demos
   * New Zealand
     * LINZ data service <https://data.linz.govt.nz/data.world>.
 * Misc?
-  * [Trashnet](https://github.com/garythung/trashnet) ⭐ 736 | 🐛 9 | 🌐 Lua | 📅 2023-06-02: Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
+  * [Trashnet](https://github.com/garythung/trashnet) ⭐ 737 | 🐛 9 | 🌐 Lua | 📅 2023-06-02: Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
   * [Correlates of War datasets](https://correlatesofwar.org/)
   * [r/dadjokes dataset](https://huggingface.co/datasets/shuttie/dadjokes) <https://dadjokes.dfdx.me/>
   * [Flight delays](https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/)
@@ -2515,9 +2515,9 @@ free or mock data apis for demos
 
 ### Other Lists like this one
 
-* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 67,473 | 🐛 5 | 📅 2026-11-26
-* <https://github.com/goabstract/Awesome-Design-Tools> ⭐ 42,048 | 🐛 269 | 🌐 JavaScript | 📅 2024-07-28 / <https://github.com/LisaDziuba/Awesome-Design-Tools> ⭐ 42,048 | 🐛 269 | 🌐 JavaScript | 📅 2024-07-28
-* <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,888 | 🐛 149 | 🌐 Ruby | 📅 2026-02-11
+* <https://github.com/bradtraversy/design-resources-for-developers> ⭐ 67,482 | 🐛 5 | 📅 2026-11-26
+* <https://github.com/goabstract/Awesome-Design-Tools> ⭐ 42,054 | 🐛 269 | 🌐 JavaScript | 📅 2024-07-28 / <https://github.com/LisaDziuba/Awesome-Design-Tools> ⭐ 42,054 | 🐛 269 | 🌐 JavaScript | 📅 2024-07-28
+* <https://github.com/neutraltone/awesome-stock-resources> ⭐ 14,890 | 🐛 149 | 🌐 Ruby | 📅 2026-02-11
 * <https://github.com/emmabostian/design-inspiration> ⭐ 1,212 | 🐛 10 | 📅 2021-02-12
 * <https://www.getstark.co/library/>
 * <https://webflow.com/accessibility/checklist>
@@ -2855,4 +2855,4 @@ free or mock data apis for demos
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
